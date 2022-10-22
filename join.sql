@@ -3,3 +3,4 @@ FROM dataengineer.rental R
 JOIN dataengineer.customer C ON R.customer_id = C.customer_id
 JOIN dataengineer.address_df A ON C.address_id = A.address_id
 GROUP BY R.customer_id
+LIMIT 1

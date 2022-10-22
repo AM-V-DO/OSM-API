@@ -1,0 +1,563 @@
+,address_id,address,city,postal_code,coordinates,latitude,Longitude
+0,1,"318 CHE DE ROUMAGOUA, LA CIOTAT, 13600, france",LA CIOTAT,13600,"Chemin de Roumagoua, La Fieloula, La Ciotat, Marseille, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, France métropolitaine, 13600, France",43.1979267,5.6076353
+1,2,"19 RUE DES DAMES, SAINTE SAVINE, 10300, france",SAINTE SAVINE,10300,"Rue des Dames, Sainte-Savine, Troyes, Aube, Grand Est, France métropolitaine, 10300, France",48.2909051,4.0457894
+2,3,"22 RUE AMIRAL GUEPRATTE, LE CONQUET, 29217, france",LE CONQUET,29217,"Rue Amiral Guépratte, Le Croaë, Le Conquet, Brest, Finistère, Bretagne, France métropolitaine, 29217, France",48.3613399,-4.7667997
+3,4,"6 BD DES ETINES, LE COTEAU, 42120, france",LE COTEAU,42120,"Boulevard des Etines, Le Coteau, Roanne, Loire, Auvergne-Rhône-Alpes, France métropolitaine, 42120, France",46.021659,4.0921204
+4,5,"35 AV DU 159EME RIA, BRIANCON, 5100, france",BRIANCON,5100,,,
+5,6,"36 RUE D EN HAUT, BRUNEMONT, 59151, france",BRUNEMONT,59151,"Rue d'En Haut, Brunémont, Douai, Nord, Hauts-de-France, France métropolitaine, 59151, France",50.2719538,3.1416689
+6,7,"1625 RTE DE CHAMBERY, SAINT-ISMIER, 38330, france",SAINT-ISMIER,38330,"Route de Chambéry, Saint-Ismier, Grenoble, Isère, Auvergne-Rhône-Alpes, France métropolitaine, 38330, France",45.2439094,5.8272864
+7,8,"3 RUE MONTESQUIEU, ASNIERES-SUR-SEINE, 92600, france",ASNIERES-SUR-SEINE,92600,"Rue Montesquieu, Centre-Ville, Asnières-sur-Seine, Arrondissement de Nanterre, Hauts-de-Seine, Île-de-France, France métropolitaine, 92600, France",48.9129683,2.293793
+8,9,"35 RUE PORTE ST JEAN, ORLEANS, 45000, france",ORLEANS,45000,,,
+9,10,"67 BD COMMANDANT CHARCOT, NEUILLY-SUR-SEINE, 92200, france",NEUILLY-SUR-SEINE,92200,,,
+10,11,"32 RUE DE LA POTERNE, BULLY, 69210, france",BULLY,69210,"Rue de la Poterne, Bully, Villefranche-sur-Saône, Rhône, Circonscription départementale du Rhône, Auvergne-Rhône-Alpes, France métropolitaine, 69210, France",45.8512237,4.5833115
+11,12,"5 RUE DE LA PROMENADE, HOUSSAY, 53360, france",HOUSSAY,53360,"Rue de la Promenade, Houssay, Château-Gontier, Mayenne, Pays de la Loire, France métropolitaine, 53360, France",47.9156735,-0.7415346
+12,13,"20 RUE DE FENIDAN, CHARTRES-DE-BRETAGNE, 35131, france",CHARTRES-DE-BRETAGNE,35131,"Rue de Fenidan, Chartres-de-Bretagne, Rennes, Ille-et-Vilaine, Bretagne, France métropolitaine, 35131, France",48.0411021,-1.7031647
+13,14,"117 RUE DES CHARMETTES, LYON 6EME, 69006, france",LYON 6EME,69006,,,
+14,15,"8 RUE DES CHATELLIERS, FOMPERRON, 79340, france",FOMPERRON,79340,"Rue des Chatelliers, Le Marchais, Fomperron, Parthenay, Deux-Sèvres, Nouvelle-Aquitaine, France métropolitaine, 79340, France",46.4821093,-0.119785
+15,16,"16 AV PIERRE LAROUSSE, MALAKOFF, 92240, france",MALAKOFF,92240,"16, Avenue Pierre Larousse, Quartier de Plaisance, Paris 14e Arrondissement, Paris, Malakoff, Antony, Hauts-de-Seine, Île-de-France, France métropolitaine, 75014, France",48.8237978,2.3025453
+16,17,"5 PL MARCEL PAGNOL, SAINT-NAZAIRE, 44600, france",SAINT-NAZAIRE,44600,,,
+17,19,"65 AV JEAN MOULIN, DREUX, 28100, france",DREUX,28100,"65, Avenue Jean Moulin, Les Rochelles, Centre-Ville, Dreux, Eure-et-Loir, Centre-Val de Loire, France métropolitaine, 28100, France",48.7279135,1.3673784
+18,20,"2 RTE DU MOULIN, LES HAYS, 39120, france",LES HAYS,39120,,,
+19,21,"1 RUE DOCTEUR HOSPITAL, CLERMONT FERRAND, 63100, france",CLERMONT FERRAND,63100,,,
+20,22,"43 AV FOCH, LA GARENNE-COLOMBES, 92250, france",LA GARENNE-COLOMBES,92250,"Avenue Foch, La Garenne-Colombes, Arrondissement de Nanterre, Hauts-de-Seine, Île-de-France, France métropolitaine, 92250, France",48.9083291,2.2428327
+21,23,"20 BD PDT FRANKLIN ROOSEVELT, BORDEAUX, 33800, france",BORDEAUX,33800,,,
+22,24,"3 IMP LES JARDINS DE PAUL, RABASTENS-DE-BIGORRE, 65140, france",RABASTENS-DE-BIGORRE,65140,"3, Impasse les Jardins de Paul, Rabastens-de-Bigorre, Tarbes, Hautes-Pyrénées, Occitanie, France métropolitaine, 65140, France",43.384355,0.153153
+23,25,"13 RUE ALPHONSE DAUDET, MONTSOULT, 95560, france",MONTSOULT,95560,"Rue Alphonse Daudet, Montsoult, Sarcelles, Val-d'Oise, Île-de-France, France métropolitaine, 95560, France",49.0712497,2.3093476
+24,26,"19 RUE PELISSIER, CLERMONT FERRAND, 63100, france",CLERMONT FERRAND,63100,"Rue Pélissier, La Pradelle, Clermont-Ferrand, Puy-de-Dôme, Auvergne-Rhône-Alpes, France métropolitaine, 63100, France",45.7854618,3.1040681
+25,28,"8 RUE CECILE BRUNSCHVICG, TOULOUSE, 31200, france",TOULOUSE,31200,"8, Rue Cécile Brunschvicg, Minimes - Barrière de Paris, Toulouse Nord, Toulouse, Haute-Garonne, Occitanie, France métropolitaine, 31200, France",43.6126624,1.422247
+26,29,"24 AV DE LA SERANE, MARSEILLE 8EME, 13008, france",MARSEILLE 8EME,13008,,,
+27,30,"261 AV SULLY, BETHUNE, 62400, france",BETHUNE,62400,"261, Avenue Sully, Béthune, Pas-de-Calais, Hauts-de-France, France métropolitaine, 62400, France",50.528644,2.629561
+28,31,"65 AV HENRI BARBUSSE, LE BLANC-MESNIL, 93150, france",LE BLANC-MESNIL,93150,"Avenue Henri Barbusse, Le Blanc-Mesnil, Le Raincy, Seine-Saint-Denis, Île-de-France, France métropolitaine, 93150, France",48.9240055,2.4626731
+29,32,"60 RUE LAFAURIE MONBADON, BORDEAUX, 33000, france",BORDEAUX,33000,"60, Rue Lafaurie de Monbadon, Triangle d'Or, Bordeaux Centre, Bordeaux, Gironde, Nouvelle-Aquitaine, France métropolitaine, 33000, France",44.8454692,-0.5799998
+30,33,"13 RUE DES TANNERIES, NANCY, 54000, france",NANCY,54000,"13, Rue des Tanneries, Rives de Meurthe, Nancy, Meurthe-et-Moselle, Grand Est, France métropolitaine, 54100, France",48.6971712,6.1901561
+31,34,"7 RES DE LA VIERGE, EYGUIERES, 13430, france",EYGUIERES,13430,,,
+32,36,"614 AV DE MONTFERRAT, DRAGUIGNAN, 83300, france",DRAGUIGNAN,83300,"614, Avenue de Montferrat, Clos Jean Aicard, Draguignan, Var, Provence-Alpes-Côte d'Azur, France métropolitaine, 83300, France",43.5433277,6.457810913506666
+33,37,"28 LOT MONT VERNON I, SAINT MARTIN, 97150, france",SAINT MARTIN,97150,,,
+34,38,"120 RUE ETCHENIQUE, BORDEAUX, 33200, france",BORDEAUX,33200,"120, Rue Etchenique, Caudéran, Bordeaux, Gironde, Nouvelle-Aquitaine, France métropolitaine, 33200, France",44.8409066,-0.6127927
+35,39,"15 RUE DES PYRENEES, LISSES, 91090, france",LISSES,91090,"Rue des Pyrénées, Parc Technologique du Bois Chaland, Lisses, Arrondissement d'Évry, Essonne, Île-de-France, France métropolitaine, 91090, France",48.6055754,2.4310508
+36,40,"6 RUE DE LA TROMPETTE, LA ROCHELLE, 17000, france",LA ROCHELLE,17000,"Rue de la Trompette, Le Prieuré, La Trompette, La Rochelle, Charente-Maritime, Nouvelle-Aquitaine, France métropolitaine, 17000, France",46.1706874,-1.1557555
+37,41,"25 BD DE L'EUROPE UNIE, RUOMS, 7120, france",RUOMS,7120,"Boulevard de l'Europe Unie, Ruoms, Largentière, Ardèche, Auvergne-Rhône-Alpes, France métropolitaine, 07120, France",44.4489912,4.3485562
+38,42,"11 RTE DE LAVAL, SALINS, 77148, france",SALINS,77148,"Route de Laval, Salins, Provins, Seine-et-Marne, Île-de-France, France métropolitaine, 77148, France",48.4250858,3.0124959
+39,43,"26 RUE STE CROIX PELLETIERS, ROUEN, 76000, france",ROUEN,76000,,,
+40,44,"122 BD DE STRASBOURG, CHOLET, 49300, france",CHOLET,49300,"122, Boulevard de Strasbourg, Cholet, Maine-et-Loire, Pays de la Loire, France métropolitaine, 49300, France",47.0690713,-0.8726905
+41,45,"5001 CHE DE ROUVROY LES MERLES, BRETEUIL, 60120, france",BRETEUIL,60120,"Chemin de Rouvroy les Merles, Breteuil, Clermont, Oise, Hauts-de-France, France métropolitaine, 60120, France",49.6307735,2.3049089
+42,46,"1 RUE DU SACRE COEUR, LOURDES, 65100, france",LOURDES,65100,,,
+43,47,"51 RUE DES SABLONS, LE MANS, 72100, france",LE MANS,72100,"51, Rue des Sablons, Pontlieue, Le Mans, Sarthe, Pays de la Loire, France métropolitaine, 72100, France",47.987857,0.2112084
+44,48,"4 AV DE SAINTONGE, LES ULIS, 91940, france",LES ULIS,91940,"Avenue de Saintonge, Les Ulis, Palaiseau, Essonne, Île-de-France, France métropolitaine, 91940, France",48.6825885,2.1652649
+45,49,"5 AV DOCTEUR FRANCOIS GOMMA, AX-LES-THERMES, 9110, france",AX-LES-THERMES,9110,,,
+46,50,"3 RUE DES ROCHES, BEAUMONT SAINT CYR, 86490, france",BEAUMONT SAINT CYR,86490,"Rue des Roches, La Tour de Beaumont, Beaumont, Beaumont Saint-Cyr, Poitiers, Vienne, Nouvelle-Aquitaine, France métropolitaine, 86490, France",46.7323014,0.4281665
+47,52,"34 RUE COISNE ET LAMBERT, BAILLEUL, 59270, france",BAILLEUL,59270,"Rue Coisne et Lambert, Quartier Saint-Georges, Bailleul, Dunkerque, Nord, Hauts-de-France, France métropolitaine, 59270, France",50.7325097,2.7366174
+48,53,"1 ALL DES ANC COMBATTANTS, ASNIERES-SUR-SEINE, 92600, france",ASNIERES-SUR-SEINE,92600,,,
+49,54,"105 RUE DE L OURCQ, PARIS 19, 75019, france",PARIS 19,75019,,,
+50,55,"9 RUE DES ECOLES, FERRIERE LA GRANDE, 59680, france",FERRIERE LA GRANDE,59680,"Rue des Écoles, La Machine, Ferrière-la-Grande, Avesnes-sur-Helpe, Nord, Hauts-de-France, France métropolitaine, 59680, France",50.2551806,3.9953061
+51,56,"95 AV DES FRERES ROUSTAN, VALLAURIS, 6220, france",VALLAURIS,6220,,,
+52,57,"25 RUE DES BOIS, SERGINES, 89140, france",SERGINES,89140,"Rue des Bois, Sergines, Sens, Yonne, Bourgogne-Franche-Comté, France métropolitaine, 89140, France",48.3411404,3.2640016
+53,58,"12 AV DES COTEAUX, CANNES, 6400, france",CANNES,6400,"Avenue des Coteaux, Terrefial, La Lepre, Cannes, Grasse, Alpes-Maritimes, Provence-Alpes-Côte d'Azur, France métropolitaine, 06110, France",43.5679469,7.024355
+54,59,"32 BD DE VAUGIRARD, PARIS 15, 75015, france",PARIS 15,75015,,,
+55,60,"10 BD DES PROVINCES, SAINTE FOY LES LYON, 69110, france",SAINTE FOY LES LYON,69110,"10, Boulevard des Provinces, Sainte-Foy-lès-Lyon, Lyon, Métropole de Lyon, Circonscription départementale du Rhône, Auvergne-Rhône-Alpes, France métropolitaine, 69110, France",45.7493005,4.799906
+56,62,"66 RUE FERRER, LE HAVRE, 76600, france",LE HAVRE,76600,"Bureau de Police du Port, 66, Rue Ferrer, L'Eure, Le Havre, Seine-Maritime, Normandie, France métropolitaine, 76600, France",49.4899306,0.1417104
+57,63,"40 RUE GEN DE GAULLE, BAYEL, 10310, france",BAYEL,10310,,,
+58,64,"5 RUE GEORGES COLLIER, LORIENT, 56100, france",LORIENT,56100,"5, Rue Georges Collier, Eau Courante, Lorient, Morbihan, Bretagne, France métropolitaine, 56100, France",47.7542686,-3.3635225
+59,65,"3 CHE DES BESSONS, MARSEILLE 14EME, 13014, france",MARSEILLE 14EME,13014,,,
+60,66,"46 AV NEWBURN, CHOISY-LE-ROI, 94600, france",CHOISY-LE-ROI,94600,"Avenue Newburn, Choisy Sud, Choisy-le-Roi, Arrondissement de L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94600, France",48.7573297,2.41
+61,67,"84 RUE BIZET, VILLEJUIF, 94800, france",VILLEJUIF,94800,"84, Rue Bizet, Villejuif, Arrondissement de L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94800, France",48.800531,2.368934
+62,68,"5 RUE CHANOINE LUCIEN GABEN, ALBI, 81000, france",ALBI,81000,,,
+63,69,"11 RUE AMPERE, LAMBERSART, 59130, france",LAMBERSART,59130,"11, Rue Ampère, Canteleu, Lambersart, Lille, Nord, Hauts-de-France, France métropolitaine, 59130, France",50.6407433,3.0214417
+64,70,"8 RUE MIREILLE CHRISOSTOME, SAINT-BRIEUC, 22000, france",SAINT-BRIEUC,22000,"8 bis, Rue Mireille Chrisostome, Centre, Saint-Brieuc, Côtes-d'Armor, Bretagne, France métropolitaine, 22000, France",48.5127728,-2.7620628
+65,71,"13 RUE EMILE DUBOIS, PARIS 14, 75014, france",PARIS 14,75014,,,
+66,72,"39 RUE MALHERBE, LE HAVRE, 76600, france",LE HAVRE,76600,"Rue Malherbe, Les Acacias, Le Havre, Seine-Maritime, Normandie, France métropolitaine, 76600, France",49.4996997,0.1394552
+67,74,"29 ALL DE COULANGES, LIVRY-GARGAN, 93190, france",LIVRY-GARGAN,93190,"Allée de Coulanges, Centre, Livry-Gargan, Le Raincy, Seine-Saint-Denis, Île-de-France, France métropolitaine, 93190, France",48.9145397,2.5327611
+68,75,"102 AV DE VICHY, ABREST, 3200, france",ABREST,3200,"La Cascade, 102, Avenue de Vichy, Les Sables, Abrest, Vichy, Allier, Auvergne-Rhône-Alpes, France métropolitaine, 03200, France",46.1056369,3.4441524329225883
+69,76,"42 RTE DE MORET, NEMOURS, 77140, france",NEMOURS,77140,"Route de Moret, Nemours, Fontainebleau, Seine-et-Marne, Île-de-France, France métropolitaine, 77140, France",48.2802644,2.6985742
+70,77,"9 RUE DU PRE VERT, ROMANS-SUR-ISERE, 26100, france",ROMANS-SUR-ISERE,26100,"Rue du Pré Vert, Romans-sur-Isère, Valence, Drôme, Auvergne-Rhône-Alpes, France métropolitaine, 26100, France",45.0474496,5.0449352
+71,78,"94 CRS DESBIEY, ARCACHON, 33120, france",ARCACHON,33120,"Cours Desbiey, Ville d'Été, Arcachon, Gironde, Nouvelle-Aquitaine, France métropolitaine, 33120, France",44.658686,-1.168735
+72,79,"1 RUE DES ECOSSAIS, TOURVILLE-SUR-ODON, 14210, france",TOURVILLE-SUR-ODON,14210,"Rue des Ecossais, Tourville-sur-Odon, Caen, Calvados, Normandie, France métropolitaine, 14210, France",49.1398295,-0.504876
+73,80,"11 RUE FAIDHERBE, AUXERRE, 89000, france",AUXERRE,89000,"11, Rue Faidherbe, Les Rosoirs, Auxerre, Yonne, Bourgogne-Franche-Comté, France métropolitaine, 89000, France",47.8000294,3.5651998
+74,81,"155 AV EUGENE VARLIN, VILLEPARISIS, 77270, france",VILLEPARISIS,77270,"Avenue Eugène Varlin, Villeparisis, Meaux, Seine-et-Marne, Île-de-France, France métropolitaine, 77270, France",48.9494889,2.6004877
+75,82,"23 RUE DU MOULIN, ETANG-SUR-ARROUX, 71190, france",ETANG-SUR-ARROUX,71190,"23, Rue du Moulin, La Tuilerie, Étang-sur-Arroux, Autun, Saône-et-Loire, Bourgogne-Franche-Comté, France métropolitaine, 71190, France",46.8695384,4.1758706
+76,83,"830 RTE DE VELLERON, MONTEUX, 84170, france",MONTEUX,84170,"830, Route de Velleron, Monteux, Carpentras, Vaucluse, Provence-Alpes-Côte d'Azur, France métropolitaine, 84170, France",44.0243447,5.0028788
+77,84,"1 RUE LUCIEN PIRON, ROSNY-SOUS-BOIS, 93110, france",ROSNY-SOUS-BOIS,93110,"1, Rue Lucien Piron, Rosny-sous-Bois, Le Raincy, Seine-Saint-Denis, Île-de-France, France métropolitaine, 93110, France",48.877107,2.469486
+78,85,"2 RTE DE LA MAIRIE, BERNEX, 74500, france",BERNEX,74500,,,
+79,86,"123 AV DU GENERAL DE GAULLE, CHAMPIGNY-SUR-MARNE, 94500, france",CHAMPIGNY-SUR-MARNE,94500,,,
+80,87,"61 RUE JEAN MACE, BREST, 29200, france",BREST,29200,"61, Rue Jean Macé, Poullic-al-Lor, Centre Ville, Brest, Finistère, Bretagne, France métropolitaine, 29200, France",48.3889829,-4.4917393
+81,88,"7188 PL DE L'HOTEL DE VILLE, CHATEAUBOURG, 35220, france",CHATEAUBOURG,35220,,,
+82,89,"23 RUE CLEMENCEAU, PONT A MOUSSON, 54700, france",PONT A MOUSSON,54700,"Rue Clemenceau, Pont-à-Mousson, Nancy, Meurthe-et-Moselle, Grand Est, France métropolitaine, 54700, France",48.9014987,6.0545593
+83,90,"9 RUE DU CHARDONNAY, CAZOULS-LES-BEZIERS, 34370, france",CAZOULS-LES-BEZIERS,34370,"Rue du Chardonnay, Le Péras, Cazouls-lès-Béziers, Béziers, Hérault, Occitanie, France métropolitaine, 34370, France",43.3870255,3.0990618
+84,91,"538 RUE DES SOURCES, SERMAISE, 91530, france",SERMAISE,91530,"Rue des Sources, Sermaise, Étampes, Essonne, Île-de-France, France métropolitaine, 91530, France",48.5388826,2.1012666
+85,92,"34 RUE DU QUATRE SEPTEMBRE, VALENCE, 26000, france",VALENCE,26000,,,
+86,93,"9001 VC RES LES RIVES DE DEAUVILLE, SAINT-ARNOULT, 14800, france",SAINT-ARNOULT,14800,,,
+87,94,"50 RUE DE L'AIGLON, WIMILLE, 62126, france",WIMILLE,62126,"Rue de l'Aiglon, Wimille, Boulogne-sur-Mer, Pas-de-Calais, Hauts-de-France, France métropolitaine, 62126, France",50.7388385,1.6172024
+88,95,"5 RUE DU GROS MURGER, MAISONS-LAFFITTE, 78600, france",MAISONS-LAFFITTE,78600,"5, Rue du Gros Murger, Maisons-Laffitte, Saint-Germain-en-Laye, Yvelines, Île-de-France, France métropolitaine, 78600, France",48.950458,2.136365
+89,96,"1 MTE DE LA CROIX, LAIVES, 71240, france",LAIVES,71240,,,
+90,97,"12 RUE LYDERIC, LILLE, 59800, france",LILLE,59800,"12, Rue Lydéric, Quartier Saint-Sauveur, Lille-Centre, Lille, Nord, Hauts-de-France, France métropolitaine, 59046, France",50.630382,3.0661672
+91,98,"1270 RPE D ARDON, LAON, 2000, france",LAON,2000,"1270, Rampe d'Ardon, ZAC Île de France, Laon, Aisne, Hauts-de-France, France métropolitaine, 02000, France",49.558728,3.625107
+92,99,"4 RUE JEAN BACHELET, NEUILLY-PLAISANCE, 93360, france",NEUILLY-PLAISANCE,93360,"4, Rue Jean Bachelet, Plateau d'Avron, Neuilly-Plaisance, Le Raincy, Seine-Saint-Denis, Île-de-France, France métropolitaine, 93360, France",48.869451,2.501604
+93,100,"279 CHE DE LA FLACHE, FONTENAILLES, 77370, france",FONTENAILLES,77370,,,
+94,103,"5036 IMP DU RINQUANA, BISSY-SUR-FLEY, 71460, france",BISSY-SUR-FLEY,71460,,,
+95,104,"33 RUE DU GEN DE GAULLE, L'AIGLE, 61300, france",L'AIGLE,61300,,,
+96,105,"24 CHE JEAN POMIER, NARBONNE, 11100, france",NARBONNE,11100,"24, Chemin Jean Pomier, Roches Grises, Narbonne, Aude, Occitanie, France métropolitaine, 11100, France",43.1433704,2.9705309
+97,106,"2 RUE DES THUYAS, VOULTON, 77560, france",VOULTON,77560,"Rue des Thuyas, Voulton, Provins, Seine-et-Marne, Île-de-France, France métropolitaine, 77560, France",48.6152765,3.3291437
+98,107,"17 RUE MARIUS DELPECH, SARCELLES, 95200, france",SARCELLES,95200,"Rue Marius Delpech, Quartier politique de la Ville Lochères, Sarcelles, Val-d'Oise, Île-de-France, France métropolitaine, 95200, France",48.9749725,2.3835293
+99,108,"5787 CHE DE L'ESQUILLON, BEAUVOISIN, 30640, france",BEAUVOISIN,30640,"Chemin de l'Esquillon, Beauvoisin, Nîmes, Gard, Occitanie, France métropolitaine, 30640, France",43.7159576,4.315286
+100,109,"46 BD DU GENERAL DE GAULLE, HENDAYE, 64700, france",HENDAYE,64700,"Boulevard du Général de Gaulle, Lapurdi, Beltzenea, Hendaye, Bayonne, Pyrénées-Atlantiques, Nouvelle-Aquitaine, France métropolitaine, 64700, France",43.3617687,-1.7722294
+101,110,"16 PL VAUBAN, AVALLON, 89200, france",AVALLON,89200,"16, Place Vauban, Avallon, Yonne, Bourgogne-Franche-Comté, France métropolitaine, 89200, France",47.4896348,3.9088934
+102,111,"713 AV DE PROVENCE, FREJUS, 83600, france",FREJUS,83600,"Avenue de Provence, Fréjus, Draguignan, Var, Provence-Alpes-Côte d'Azur, France métropolitaine, 83600, France",43.4278796,6.7427895
+103,112,"13 RUE NATIONALE, CAMPENEAC, 56800, france",CAMPENEAC,56800,"Rue Nationale, Les Prés, La Providence, Campénéac, Pontivy, Morbihan, Bretagne, France métropolitaine, 56800, France",47.957453,-2.2926191
+104,113,"17 RUE DE VILLENEUVE, LES MOUTIERS-EN-RETZ, 44760, france",LES MOUTIERS-EN-RETZ,44760,"Rue de Villeneuve, Les Moutiers-en-Retz, Saint-Nazaire, Loire-Atlantique, Pays de la Loire, France métropolitaine, 44760, France",47.0698355,-2.0065847
+105,114,"9 IMP DU CERS, LIMOUX, 11300, france",LIMOUX,11300,"9, Impasse du Cers, Limoux, Aude, Occitanie, France métropolitaine, 11300, France",43.0690474,2.2090052
+106,115,"20 RUE CHARLES LATERRADE, TALENCE, 33400, france",TALENCE,33400,"20, Rue Charles Laterrade, Saint-Genès, Nansouty - Saint-Genès, Talence, Bordeaux, Gironde, Nouvelle-Aquitaine, France métropolitaine, France",44.8214658,-0.5847976
+107,116,"16 RTE DU MONT DORE LA GARANDIE, AYDAT, 63970, france",AYDAT,63970,"Route du Mont Dore La Garandie, La Garandie, Aydat, Clermont-Ferrand, Puy-de-Dôme, Auvergne-Rhône-Alpes, France métropolitaine, 63970, France",45.6603026,2.9431044
+108,117,"40 CHE DU BOURGEON, LEGE-CAP-FERRET, 33950, france",LEGE-CAP-FERRET,33950,"Chemin du Bourgeon, La Clé des Champs, Lège, Lège-Cap-Ferret, Arcachon, Gironde, Nouvelle-Aquitaine, France métropolitaine, 33950, France",44.7823936,-1.1523087
+109,118,"3 AV PHILIPPE DE VOLVIRE, SENS-DE-BRETAGNE, 35490, france",SENS-DE-BRETAGNE,35490,"3, Avenue Philippe de Volvire, ZA de la Croix Couverte, La Bognerie, Sens-de-Bretagne, Rennes, Ille-et-Vilaine, Bretagne, France métropolitaine, 35490, France",48.3324927,-1.5353376
+110,119,"82 RUE LOUIS ROUQUIER, LEVALLOIS-PERRET, 92300, france",LEVALLOIS-PERRET,92300,"82, Rue Louis Rouquier, Levallois-Perret, Arrondissement de Nanterre, Hauts-de-Seine, Île-de-France, France métropolitaine, 92300, France",48.8918294,2.289658
+111,121,"2 CHE DE LA MERLEBRISE, MALVILLE, 44260, france",MALVILLE,44260,"Chemin de la Merlebrise, La Raterie, Malville, Saint-Nazaire, Loire-Atlantique, Pays de la Loire, France métropolitaine, 44260, France",47.3555196,-1.8606832
+112,122,"30 RUE DES LICES MAZAN, CARPENTRAS, 84200, france",CARPENTRAS,84200,"Rue des Lices Mazan, Carpentras, Vaucluse, Provence-Alpes-Côte d'Azur, France métropolitaine, 84200, France",44.0551946,5.0513238
+113,123,"5 RUE ELIE-VERNET, GRENOBLE, 38000, france",GRENOBLE,38000,"Rue Élie Vernet, Arago, Secteur 1, Grenoble, Isère, Auvergne-Rhône-Alpes, France métropolitaine, 38000, France",45.1974714,5.7132565
+114,125,"4 ALL DU VIEUX CEDRE, SASSENAGE, 38360, france",SASSENAGE,38360,"Allée du Vieux Cèdre, Domaine du Vieux Cèdre, Hameau du Château, Sassenage, Grenoble, Isère, Auvergne-Rhône-Alpes, France métropolitaine, 38360, France",45.20936655,5.66600007483426
+115,126,"36 CHE DU PETIT CASTAING, MURET, 31600, france",MURET,31600,"Chemin du Petit Castaing, Muret, Haute-Garonne, Occitanie, France métropolitaine, 31600, France",43.4677171,1.3263124
+116,127,"199 RUE JOLIOT CURIE, LYON 5EME, 69005, france",LYON 5EME,69005,,,
+117,128,"12 RUE DE LA CROIX VERTE, CHAVAGNE, 35310, france",CHAVAGNE,35310,"12, Rue de la Croix Verte, Le Champ du Bourg, Chavagne, Rennes, Ille-et-Vilaine, Bretagne, France métropolitaine, 35310, France",48.05495925,-1.7897752499999995
+118,129,"1 AV GABRIEL PERI, RUEIL-MALMAISON, 92500, france",RUEIL-MALMAISON,92500,"1, Avenue Gabriel Péri, Village Plaine Gare, Rueil-Malmaison, Arrondissement de Nanterre, Hauts-de-Seine, Île-de-France, France métropolitaine, 92500, France",48.8828484,2.1882933
+119,130,"6 RUE GUSTAVE RICHARD, SEGRE-EN-ANJOU BLEU, 49500, france",SEGRE-EN-ANJOU BLEU,49500,"Rue Gustave Richard, Le Flucas, Le Petit Bouillé, Segré, Segré-en-Anjou Bleu, Segré, Maine-et-Loire, Pays de la Loire, France métropolitaine, 49500, France",47.6796033,-0.8685462
+120,131,"81 RUE DU FRESCHE BLANC, NANTES, 44300, france",NANTES,44300,"Rue du Fresche Blanc, Bourgeonnière, Bourgeonnière - Petit Port, Nantes Nord, Nantes, Loire-Atlantique, Pays de la Loire, France métropolitaine, France",47.25168155,-1.5576282696601942
+121,132,"10 RUE DE L EGLISE, MYENNES, 58440, france",MYENNES,58440,"Rue de l'Église, Myennes, Cosne-Cours-sur-Loire, Nièvre, Bourgogne-Franche-Comté, France métropolitaine, 58440, France",47.4457724,2.9356614
+122,133,"28 RUE DES BOIS, FONTAINEBLEAU, 77300, france",FONTAINEBLEAU,77300,"Rue des Bois, Centre, Fontainebleau, Seine-et-Marne, Île-de-France, France métropolitaine, 77300, France",48.4086191,2.7028631
+123,134,"25 RUE GABRIEL HAYES, NOGENT LE ROTROU, 28400, france",NOGENT LE ROTROU,28400,"Rue Gabriel Hayes, Nogent-le-Rotrou, Eure-et-Loir, Centre-Val de Loire, France métropolitaine, 28400, France",48.3208407,0.8044958
+124,135,"40 BD GAMBETTA, SANNOIS, 95110, france",SANNOIS,95110,"40, Boulevard Gambetta, Sannois, Argenteuil, Val-d'Oise, Île-de-France, France métropolitaine, 95110, France",48.9756683,2.2478693
+125,137,"15 AV MALVESIN, COURBEVOIE, 92400, france",COURBEVOIE,92400,"Avenue Malvesin, Bécon, Quartier de Bécon, Courbevoie, Arrondissement de Nanterre, Hauts-de-Seine, Île-de-France, France métropolitaine, 92400, France",48.9031001,2.2704882
+126,138,"17 IMP DE LA TOUCHE, MONTSURS, 53150, france",MONTSURS,53150,"Impasse de la Touche, Deux-Évailles, Montsûrs, Mayenne, Pays de la Loire, France métropolitaine, 53150, France",48.1925265,-0.5250747
+127,139,"6 RUE DE GOND, PADOUX, 88700, france",PADOUX,88700,"Rue de Gond, Padoux, Épinal, Vosges, Grand Est, France métropolitaine, 88700, France",48.2778702,6.5699451
+128,140,"31 RUE RICHARD DE FOURNIVAL, AMIENS, 80090, france",AMIENS,80090,"31, Rue Richard de Fournival, Amiens, Somme, Hauts-de-France, France métropolitaine, 80000, France",49.8835858,2.3158795
+129,141,"11 RUE BLANQUI, MERICOURT, 62680, france",MERICOURT,62680,"11, Rue Blanqui, La Voye Grard, Méricourt, Lens, Pas-de-Calais, Hauts-de-France, France métropolitaine, 62680, France",50.403275,2.858752
+130,142,"1 TRA DE LA CARRAIRE, VALENSOLE, 4210, france",VALENSOLE,4210,"1, Traverse de la Carraire, Croix Sainte-Anne, Valensole, Forcalquier, Alpes-de-Haute-Provence, Provence-Alpes-Côte d'Azur, France métropolitaine, 04210, France",43.837875,5.9825774
+131,143,"78 RUE DE L ECHASSIER, COGNAC, 16100, france",COGNAC,16100,"78, Rue de l'Echassier, Cité de la Chaudronne, Cognac, Charente, Nouvelle-Aquitaine, France métropolitaine, 16100, France",45.6918282,-0.30817
+132,144,"22 RUE DE LA MAIRIE, DANGERS, 28190, france",DANGERS,28190,"Rue de la Mairie, Dangers, Chartres, Eure-et-Loir, Centre-Val de Loire, France métropolitaine, 28190, France",48.5073798,1.3507173
+133,145,"23 RUE DE THABERT, GONNEVILLE-LE THEIL, 50330, france",GONNEVILLE-LE THEIL,50330,,,
+134,146,"12 RTE DE VESOUL, VELESMES-ECHEVANNE, 70100, france",VELESMES-ECHEVANNE,70100,"Route de Vesoul, Velesmes, Velesmes-Échevanne, Vesoul, Haute-Saône, Bourgogne-Franche-Comté, France métropolitaine, 70100, France",47.4140843,5.7155779
+135,147,"9001 SQ LAFAYETTE, COMPIEGNE, 60200, france",COMPIEGNE,60200,"Square Lafayette, Les Sablons, Compiègne, Oise, Hauts-de-France, France métropolitaine, 60200, France",49.408733,2.8232871
+136,148,"139 RUE DE L ARTISANAT, VEZELIN-SUR-LOIRE, 42260, france",VEZELIN-SUR-LOIRE,42260,"Rue de l'Artisanat, Saint-Paul-de-Vézelin, Vézelin-sur-Loire, Roanne, Loire, Auvergne-Rhône-Alpes, France métropolitaine, 42590, France",45.884429,4.0848955
+137,149,"95 AV STALINGRAD, ARLES, 13200, france",ARLES,13200,,,
+138,150,"3 AV DE LA BARMASSA, VILLEFRANCHE-SUR-MER, 6230, france",VILLEFRANCHE-SUR-MER,6230,"Avenue de la Barmassa, Corne d'Or Sud, Villefranche-sur-Mer, Nice, Alpes-Maritimes, Provence-Alpes-Côte d'Azur, France métropolitaine, 06230, France",43.7061858,7.3090195
+139,151,"377 CHE DES FUMADES, SAINT-CANNAT, 13760, france",SAINT-CANNAT,13760,"Chemin des Fumades, Saint-Cannat, Aix-en-Provence, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, France métropolitaine, 13760, France",43.6245028,5.2974824
+140,152,"17 IMP DES JARDINS, VALLEIRY, 74520, france",VALLEIRY,74520,"Impasse des Jardins, Valleiry, Saint-Julien-en-Genevois, Haute-Savoie, Auvergne-Rhône-Alpes, France métropolitaine, 74520, France",46.1068512,5.9663385
+141,153,"140 CHEM DE LAGROUNE, ANGRESSE, 40150, france",ANGRESSE,40150,,,
+142,154,"8 RUE DE LA BRIDE, AURILLAC, 15000, france",AURILLAC,15000,"8, Rue de la Bride, Aurillac, Cantal, Auvergne-Rhône-Alpes, France métropolitaine, 15000, France",44.929575,2.4443246
+143,155,"488 RTE DE SONNEX, SAINT-LAURENT, 74800, france",SAINT-LAURENT,74800,"Route de Sonnex, Saint-Laurent, Bonneville, Haute-Savoie, Auvergne-Rhône-Alpes, France métropolitaine, 74800, France",46.0485813,6.3433013
+144,156,"7 CHE DES MYRTES, BEAULIEU SUR MER, 6310, france",BEAULIEU SUR MER,6310,"Chemin des Myrtes, Beaulieu-sur-Mer, Nice, Alpes-Maritimes, Provence-Alpes-Côte d'Azur, France métropolitaine, 06310, France",43.7079493,7.3277528
+145,157,"11 RUE DU 11 NOVEMBRE 1918, LOUHANS, 71500, france",LOUHANS,71500,"11, Rue du 11 Novembre 1918, Bourgchâteau, L'Écotet, Louhans, Saône-et-Loire, Bourgogne-Franche-Comté, France métropolitaine, 71500, France",46.631576,5.218665
+146,158,"9 PL DU HUIT MAI 1945, PIERRELAYE, 95480, france",PIERRELAYE,95480,,,
+147,159,"44 CHE DES MUSICIENS, GERARDMER, 88400, france",GERARDMER,88400,"44, Chemin des Musiciens, Gérardmer, Saint-Dié-des-Vosges, Vosges, Grand Est, France métropolitaine, 88400, France",48.08290255,6.8851889829362385
+148,160,"175 ALL DES AMANDIERS, SAINT-CYR-SUR-MER, 83270, france",SAINT-CYR-SUR-MER,83270,"Allée des Amandiers, Domaine de Port d'Allon - Le Deffend, Le Port d'Alon, Saint-Cyr-sur-Mer, Toulon, Var, Provence-Alpes-Côte d'Azur, France métropolitaine, 83270, France",43.1513599,5.7002128
+149,161,"103 IMP DU BAGUIER, DRAGUIGNAN, 83300, france",DRAGUIGNAN,83300,"Impasse du Baguier, Draguignan, Var, Provence-Alpes-Côte d'Azur, France métropolitaine, 83300, France",43.5312744,6.4295725
+150,162,"10 RUE DE NAVARIN, PARIS 09, 75009, france",PARIS 09,75009,,,
+151,164,"18 BD VITAL BOUHOT, NEUILLY-SUR-SEINE, 92200, france",NEUILLY-SUR-SEINE,92200,"18, Boulevard Vital Bouhot, Neuilly-sur-Seine, Arrondissement de Nanterre, Hauts-de-Seine, Île-de-France, France métropolitaine, 92200, France",48.8957845,2.267368
+152,165,"147 BD DE STRASBOURG, NOGENT-SUR-MARNE, 94130, france",NOGENT-SUR-MARNE,94130,"147, Boulevard de Strasbourg, Nogent Village, Nogent-sur-Marne, Val-de-Marne, Île-de-France, France métropolitaine, 94130, France",48.8428233,2.484884
+153,166,"14 PL DE LA REPUBLIQUE, CHALETTE-SUR-LOING, 45120, france",CHALETTE-SUR-LOING,45120,,,
+154,167,"92 AV ROGER SALENGRO, SAVIGNY-SUR-ORGE, 91600, france",SAVIGNY-SUR-ORGE,91600,"92, Avenue Roger Salengro, Savigny-sur-Orge, Palaiseau, Essonne, Île-de-France, France métropolitaine, 91600, France",48.6815664,2.341299
+155,168,"11 AV NAPOLEON 3, AJACCIO, 20000, france",AJACCIO,20000,,,
+156,169,"7 RUE DU PARADIS, AGEN, 47000, france",AGEN,47000,"7, Rue du Paradis, Agen, Lot-et-Garonne, Nouvelle-Aquitaine, France métropolitaine, 47000, France",44.2025825,0.6144402
+157,170,"640 AV DE BREDASQUE, AIX EN PROVENCE, 13090, france",AIX EN PROVENCE,13090,"Avenue de Bredasque, Jas de Bouffan, Aix-en-Provence, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, France métropolitaine, 13097, France",43.5329463,5.4162937
+158,172,"1013 RTE DE LEPLASSOTTE, PRECHACQ-LES-BAINS, 40465, france",PRECHACQ-LES-BAINS,40465,"1013, Route de Leplassotte, Préchacq-les-Bains, Arrondissement de Dax, Landes, Nouvelle-Aquitaine, France métropolitaine, 40465, France",43.7548424,-0.9231801
+159,173,"49 RUE DES CARNETS, CLAMART, 92140, france",CLAMART,92140,"Rue des Carnets, Jardin Parisien, Clamart, Antony, Hauts-de-Seine, Île-de-France, France métropolitaine, 92140, France",48.789496,2.2596809
+160,174,"3 SQ MAZARINE, VANNES, 56000, france",VANNES,56000,"3, Square Mazarine, Petit Tohannic, Sud-Est, Vannes, Morbihan, Bretagne, France métropolitaine, 56000, France",47.6486129,-2.7431077
+161,175,"9 RUE DU HUREPOIX, ABLIS, 78660, france",ABLIS,78660,"9, Rue du Hurepoix, Ablis, Rambouillet, Yvelines, Île-de-France, France métropolitaine, 78660, France",48.5153754,1.8438381
+162,176,"10 RUE DU PRE DE FOIRE, GRIMAUD, 83310, france",GRIMAUD,83310,"Rue du Pré de Foire, Grimaud, Draguignan, Var, Provence-Alpes-Côte d'Azur, France métropolitaine, 83310, France",43.2737688,6.5231131
+163,177,"2 AV DE L ACACIA, DRANCY, 93700, france",DRANCY,93700,"Avenue de l'Acacia, Drancy Centre, Drancy, Le Raincy, Seine-Saint-Denis, Île-de-France, France métropolitaine, 93700, France",48.9168662,2.4412125
+164,179,"10 RUE DES 4 VENTS, CABREROLLES, 34480, france",CABREROLLES,34480,,,
+165,180,"313 BD ARISTIDE BRIAND, SAVIGNY-SUR-ORGE, 91600, france",SAVIGNY-SUR-ORGE,91600,"Boulevard Aristide Briand, Savigny-sur-Orge, Palaiseau, Essonne, Île-de-France, France métropolitaine, 91600, France",48.6861271,2.3496404
+166,181,"10 RUE DE LA HETRAIE, LE HAVRE, 76620, france",LE HAVRE,76620,"10, Rue de la Hêtraie, Hêtraie, Le Havre, Seine-Maritime, Normandie, France métropolitaine, 76600, France",49.5184777,0.1261014
+167,182,"57 RUE EDOUARD BRANLY, VALENCE, 26000, france",VALENCE,26000,"57, Rue Edouard Branly, Valence, Drôme, Auvergne-Rhône-Alpes, France métropolitaine, 26000, France",44.9191834,4.8988549
+168,183,"9 RUE DES SEUX, POUILLOUX, 71230, france",POUILLOUX,71230,"9, Rue des Seux, Les Seux, L'Essard, Pouilloux, Autun, Saône-et-Loire, Bourgogne-Franche-Comté, France métropolitaine, 71230, France",46.6153451,4.3358252
+169,184,"13 AV DU BARON ROUILLARD DE BEAU, LE COUDRAY, 28630, france",LE COUDRAY,28630,,,
+170,185,"280 RTE DE KERBERS, PLOUZANE, 29280, france",PLOUZANE,29280,"280, Route de Kerbers, Kerbers, Plouzané, Brest, Finistère, Bretagne, France métropolitaine, 29280, France",48.3991731,-4.6070747
+171,186,"16 AV DES FRERES LUMIERE, BRY-SUR-MARNE, 94360, france",BRY-SUR-MARNE,94360,"16, Avenue des Frères Lumière, Quartier Ouest, Bry-sur-Marne, Nogent-sur-Marne, Val-de-Marne, Île-de-France, France métropolitaine, 94360, France",48.837594,2.533867
+172,187,"39 RUE MAL DE LATTRE DE TASSIGNY, LE HAVRE, 76600, france",LE HAVRE,76600,,,
+173,188,"4 RUE JOHN FITZGERALD KENNEDY, SAINT MAX, 54130, france",SAINT MAX,54130,,,
+174,189,"12 RUE DES FLEURS, LAGNY-SUR-MARNE, 77400, france",LAGNY-SUR-MARNE,77400,"Rue des Fleurs, Lagny-sur-Marne, Torcy, Seine-et-Marne, Île-de-France, France métropolitaine, 77400, France",48.8656604,2.7182902
+175,190,"9 RUE AMEDEE GORDINI, LIMOGES, 87280, france",LIMOGES,87280,"Rue Amédée Gordini, Family Village, Le Petit Grossereix, Limoges, Haute-Vienne, Nouvelle-Aquitaine, France métropolitaine, 87280, France",45.8927165,1.2802514
+176,191,"292 BD FOSSE DEUX, ROUVROY, 62320, france",ROUVROY,62320,"Boulevard Fosse Deux, Cité de la Résidence de la Motte, Rouvroy, Lens, Pas-de-Calais, Hauts-de-France, France métropolitaine, 62320, France",50.4022506,2.9086982
+177,192,"5344 CHE DE LA RAPAUDIERE, POLLIONNAY, 69290, france",POLLIONNAY,69290,"Chemin de la Rapaudière, Pollionnay, Lyon, Rhône, Circonscription départementale du Rhône, Auvergne-Rhône-Alpes, France métropolitaine, 69290, France",45.7575667,4.6930663
+178,194,"5 IMP DES FRICHOTS, EPIEDS, 27730, france",EPIEDS,27730,,,
+179,195,"7 RUE DES QUETEURS, TOULOUSE, 31000, france",TOULOUSE,31000,"7, Rue des Quêteurs, Capitole, Toulouse Centre, Toulouse, Haute-Garonne, Occitanie, France métropolitaine, 31000, France",43.60992805,1.4380106759619
+180,196,"91 RUE PIERRE BROSSOLETTE, RUEIL-MALMAISON, 92500, france",RUEIL-MALMAISON,92500,"91, Rue Pierre Brossolette, Village Plaine Gare, Rueil-Malmaison, Arrondissement de Nanterre, Hauts-de-Seine, Île-de-France, France métropolitaine, 92500, France",48.8841758,2.1869075
+181,197,"70 RUE ANATOLE FRANCE, GRENOBLE, 38100, france",GRENOBLE,38100,"70, Rue Anatole France, Eaux-Claires, Grenoble, Isère, Auvergne-Rhône-Alpes, France métropolitaine, 38100, France",45.1725227,5.7069845
+182,198,"2 ALL DES COQUELICOTS, VIEILLEVIGNE, 44116, france",VIEILLEVIGNE,44116,"Allée des Coquelicots, L'Enteaumière, Vieillevigne, Nantes, Loire-Atlantique, Pays de la Loire, France métropolitaine, 44116, France",46.9686284,-1.4438936
+183,200,"17 RUE DE MALTE, PARIS 11, 75011, france",PARIS 11,75011,,,
+184,201,"72 AV DU 11 NOVEMBRE 1918, BANDOL, 83150, france",BANDOL,83150,"Avenue du 11 Novembre 1918, La Plaine de Gairard, Bandol, Toulon, Var, Provence-Alpes-Côte d'Azur, France métropolitaine, 83150, France",43.13886,5.7506756
+185,202,"93 CHE ARIOLIA, BRISCOUS, 64240, france",BRISCOUS,64240,"Chemin Ariolia, Lapurdi, Briscous, Bayonne, Pyrénées-Atlantiques, Nouvelle-Aquitaine, France métropolitaine, 64240, France",43.4609123,-1.3276438
+186,203,"40 RUE SAINT HONORE, AMIENS, 80000, france",AMIENS,80000,"40, Rue Saint-Honoré, Amiens, Somme, Hauts-de-France, France métropolitaine, 80000, France",49.8877587,2.2881996
+187,204,"19 RUE HENRI VASSEUR, ARGENTEUIL, 95100, france",ARGENTEUIL,95100,"Rue Henri Vasseur, Argenteuil, Val-d'Oise, Île-de-France, France métropolitaine, 95100, France",48.9497707,2.2635997
+188,205,"2 RUE ANNE PAVAGEAU, AVORD, 18520, france",AVORD,18520,,,
+189,206,"14 QUAI DU DOLAIZON, VALS-PRES-LE-PUY, 43750, france",VALS-PRES-LE-PUY,43750,"Quai du Dolaizon, Vals-près-le-Puy, Le Puy-en-Velay, Haute-Loire, Auvergne-Rhône-Alpes, France métropolitaine, 43750, France",45.028093,3.8733754
+190,207,"66 RES LE LAMPARO, LEUCATE, 11370, france",LEUCATE,11370,,,
+191,208,"16 RUE MONTOIR POISSONNERIE, CAEN, 14000, france",CAEN,14000,"Rue Montoir Poissonnerie, Centre-ville ancien, Le Château, Caen, Calvados, Normandie, France métropolitaine, 14000, France",49.1845294,-0.3608034
+192,209,"1072 RTE DE SAINT JEAN, ANTIBES, 6600, france",ANTIBES,6600,"Route de Saint-Jean, Antibes, Grasse, Alpes-Maritimes, Provence-Alpes-Côte d'Azur, France métropolitaine, 06600, France",43.5833713,7.1084402
+193,210,"33 RUE DU COMMANDANT ROLLAND, HERIMONCOURT, 25310, france",HERIMONCOURT,25310,"33, Rue du Commandant Rolland, La Bouloie, Hérimoncourt, Montbéliard, Doubs, Bourgogne-Franche-Comté, France métropolitaine, 25310, France",47.4466585,6.880553383809527
+194,211,"4 TRA DE LA GIRONNE, MARSEILLE 8EME, 13008, france",MARSEILLE 8EME,13008,,,
+195,212,"22 CHE DE LA PETITE COTE, MENAUCOURT, 55500, france",MENAUCOURT,55500,"Chemin de la Petite Côte, Menaucourt, Bar-le-Duc, Meuse, Grand Est, France métropolitaine, 55500, France",48.6513983,5.3537031
+196,213,"45 AV DE LA TABLE DE PIERRE, FRANCHEVILLE, 69340, france",FRANCHEVILLE,69340,"45, Avenue de la Table de Pierre, Francheville-Bel Air, Francheville, Lyon, Métropole de Lyon, Circonscription départementale du Rhône, Auvergne-Rhône-Alpes, France métropolitaine, 69340, France",45.7471906,4.7509995
+197,214,"39 RTE NATIONALE 2 TAKAMAKA, SAINT PHILIPPE, 97442, france",SAINT PHILIPPE,97442,,,
+198,215,"80 RUE CURIAL, PARIS 19, 75019, france",PARIS 19,75019,,,
+199,216,"1671 RTE DE FLASSAN, VILLES-SUR-AUZON, 84570, france",VILLES-SUR-AUZON,84570,"Route de Flassan, Villes-sur-Auzon, Carpentras, Vaucluse, Provence-Alpes-Côte d'Azur, France métropolitaine, 84570, France",44.070671,5.232849
+200,217,"4 PAS MENDES FRANCE, BEAUCOURT, 90500, france",BEAUCOURT,90500,,,
+201,218,"20 RTE DES CHAMPS, THIERVILLE, 27290, france",THIERVILLE,27290,"Route des Champs, La Poterie, Pont-Authou, Bernay, Eure, Normandie, France métropolitaine, 27290, France",49.2531357,0.7096643
+202,221,"13 RUE DE LA DOLVE, TOURS, 37000, france",TOURS,37000,"13, Rue de la Dolve, Blaise Pascal, Prébendes, Tours, Arrondissement de Tours, Indre-et-Loire, Centre-Val de Loire, France métropolitaine, 37000, France",47.3892711,0.6877355
+203,222,"13 RUE PONTCOTTIER, BOURGOIN-JALLIEU, 38300, france",BOURGOIN-JALLIEU,38300,"B, 13 ter, Rue Pontcottier, Bourgoin-Jallieu, La Tour-du-Pin, Isère, Auvergne-Rhône-Alpes, France métropolitaine, 38300, France",45.5850799,5.2815616
+204,223,"29 RUE DE BOD AVEL, LOCMINE, 56500, france",LOCMINE,56500,"Rue de Bod Avel, Locminé, Pontivy, Morbihan, Bretagne, France métropolitaine, 56500, France",47.8916092,-2.8424141
+205,224,"4 RUE FERME, VENDOME, 41100, france",VENDOME,41100,"Rue Ferme, Quartier Rochambeau, Vendôme-Quartiers Centre, Vendôme, Loir-et-Cher, Centre-Val de Loire, France métropolitaine, 41100, France",47.7895929,1.0673892
+206,225,"27 RUE DU MOULIN DAVID, LE GUE D ALLERE, 17540, france",LE GUE D ALLERE,17540,"Rue du Moulin David, Le Gué-d'Alleré, La Rochelle, Charente-Maritime, Nouvelle-Aquitaine, France métropolitaine, 17540, France",46.1923429,-0.8663612
+207,226,"207 CHE DES ECOLES, BIZONNES, 38690, france",BIZONNES,38690,"207, Chemin des Écoles, Bizonnes, La Tour-du-Pin, Isère, Auvergne-Rhône-Alpes, France métropolitaine, 38690, France",45.4534495,5.3794038
+208,227,"49 RUE DU VAL, PROVINS, 77160, france",PROVINS,77160,"Rue du Val, Provins, Seine-et-Marne, Île-de-France, France métropolitaine, 77160, France",48.5607688,3.2965592
+209,228,"32 RUE DE BEAUFORT, PLERGUER, 35540, france",PLERGUER,35540,"Rue de Beaufort, L'Epine, Plerguer, Saint-Malo, Ille-et-Vilaine, Bretagne, France métropolitaine, 35540, France",48.5252117,-1.8444822
+210,229,"9 CHE DES COMBES, LE POUGET, 34230, france",LE POUGET,34230,"Chemin des Combes, Le Pouget, Lodève, Hérault, Occitanie, France métropolitaine, 34230, France",43.5910556,3.5185093
+211,230,"4 CITE BEL AIR, ETAPLES, 62630, france",ETAPLES,62630,"Cité Bel Air, Étaples, Montreuil, Pas-de-Calais, Hauts-de-France, France métropolitaine, 62630, France",50.5222676,1.6285509
+212,231,"2 RTE DE CHAMPIGNY, TINQUEUX, 51430, france",TINQUEUX,51430,"2, Route de Champigny, Tinqueux, Reims, Marne, Grand Est, France métropolitaine, 51430, France",49.2535557,3.9874616
+213,232,"30 RTE DES COMBES, VAUJANY, 38114, france",VAUJANY,38114,"Route des Combes, Grand Vaujany, Vaujany, Grenoble, Isère, Auvergne-Rhône-Alpes, France métropolitaine, 38114, France",45.1583349,6.0821777
+214,233,"3 RUE PRAIRIAL, CHENOVE, 21300, france",CHENOVE,21300,"Rue Prairial, Le Mail, Chenôve, Dijon, Côte-d'Or, Bourgogne-Franche-Comté, France métropolitaine, 21300, France",47.2864687,5.0055826
+215,235,"185 ALL DE L'OPPIDUM, DIVONNE-LES-BAINS, 1220, france",DIVONNE-LES-BAINS,1220,"Allée de l'Oppidum, Pain Loup, Vésenex, Divonne-les-Bains, Gex, Ain, Auvergne-Rhône-Alpes, France métropolitaine, 01220, France",46.3646316,6.1491103
+216,236,"20 RUE DU PROFESSEUR POZZI, PERIGUEUX, 24000, france",PERIGUEUX,24000,"Rue du Professeur Pozzi, Périgueux, Dordogne, Nouvelle-Aquitaine, France métropolitaine, 24000, France",45.179334,0.7302215
+217,237,"16 RUE DU CLAPAS, CEBAZAN, 34360, france",CEBAZAN,34360,"Rue du Clapas, Cébazan, Béziers, Hérault, Occitanie, France métropolitaine, 34360, France",43.4048935,2.9753065
+218,238,"2 PL DE L'EGLISE, IVRY-SUR-SEINE, 94200, france",IVRY-SUR-SEINE,94200,,,
+219,239,"16 QUAI DES MARINIERS, NEMOURS, 77140, france",NEMOURS,77140,"Quai des Mariniers, Nemours, Fontainebleau, Seine-et-Marne, Île-de-France, France métropolitaine, 77140, France",48.2631929,2.6945336
+220,240,"12 RUE DES MUES, SION LES MINES, 44590, france",SION LES MINES,44590,"Rue des Mües, Beauregard, Sion-les-Mines, Châteaubriant-Ancenis, Loire-Atlantique, Pays de la Loire, France métropolitaine, 44590, France",47.735795,-1.5969887
+221,241,"35 RUE DE L ETANG, FEUCHEROLLES, 78810, france",FEUCHEROLLES,78810,"35, Rue de l'Étang, Feucherolles, Saint-Germain-en-Laye, Yvelines, Île-de-France, France métropolitaine, 78810, France",48.8723846,1.9700131
+222,242,"88 AV DE LA PLAGE, BENODET, 29950, france",BENODET,29950,"88, Avenue de la Plage, Résidence les jardins d'Arvor Vacances Bleues, Kergaït, Bénodet, Quimper, Finistère, Bretagne, France métropolitaine, 29950, France",47.8751822,-4.1120638
+223,243,"15 AV ARISTIDE BRIAND, MONTESSON, 78360, france",MONTESSON,78360,"15, Avenue Aristide Briand, Montesson, Saint-Germain-en-Laye, Yvelines, Île-de-France, France métropolitaine, 78360, France",48.905212,2.145326
+224,244,"4 AV DE CARTHAGE, AIX EN PROVENCE, 13100, france",AIX EN PROVENCE,13100,"Avenue de Carthage, Cuques, Aix-en-Provence, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, France métropolitaine, 13090, France",43.5269059,5.4380824
+225,246,"13 RUE DE NAUDIN, CONDE LES HERPY, 8360, france",CONDE LES HERPY,8360,,,
+226,247,"248 RUE DE LA FICAUDIERE, PORNIC, 44210, france",PORNIC,44210,"Rue de la Ficaudière, La Tocnaye, Pornic, Saint-Nazaire, Loire-Atlantique, Pays de la Loire, France métropolitaine, 44210, France",47.1326425,-2.1157995
+227,248,"21 RUE PASTEUR, BOULOGNE SUR MER, 62200, france",BOULOGNE SUR MER,62200,"Rue Pasteur, Ville-Basse, Boulogne-sur-Mer, Pas-de-Calais, Hauts-de-France, France métropolitaine, 62200, France",50.7196492,1.6081886
+228,249,"32 RUE BASFROI, PARIS 11, 75011, france",PARIS 11,75011,,,
+229,250,"32 RUE DES ORMEAUX, PARIS 20, 75020, france",PARIS 20,75020,,,
+230,251,"6 SQ FONTAINE BELLERIE, BEAUVAIS, 60000, france",BEAUVAIS,60000,"6, Square Fontaine Bellerie, Les Quarante Mines, Beauvais, Oise, Hauts-de-France, France métropolitaine, 60000, France",49.4148349,2.0717232
+231,252,"6 RUE DES PENSEES, GOUSSAINVILLE, 95190, france",GOUSSAINVILLE,95190,"Rue des Pensées, Goussainville, Sarcelles, Val-d'Oise, Île-de-France, France métropolitaine, 95190, France",49.0268468,2.4698925
+232,253,"5 RUE VICTOR HUGO, REUGNY, 37380, france",REUGNY,37380,"Rue Victor Hugo, Le Bourg, Sur le Château, Reugny, Arrondissement de Tours, Indre-et-Loire, Centre-Val de Loire, France métropolitaine, 37380, France",47.481626,0.8848307
+233,255,"18 RUE DE BESANCON, PONTARLIER, 25300, france",PONTARLIER,25300,"Rue de Besançon, Saint-Pierre, Pontarlier, Doubs, Bourgogne-Franche-Comté, France métropolitaine, 25300, France",46.9065713,6.3505732
+234,256,"317 RUE BAIXA DA BANHEIRA, PLAISIR, 78370, france",PLAISIR,78370,"317, Rue Baixa da Banheira, Les Gâtines, Plaisir, Versailles, Yvelines, Île-de-France, France métropolitaine, 78370, France",48.8170717,1.9630161
+235,257,"13 RUE DE MONTFLEURY, SARCELLES, 95200, france",SARCELLES,95200,"Rue de Montfleury, Sarcelles, Val-d'Oise, Île-de-France, France métropolitaine, 95200, France",48.9925019,2.3804351
+236,258,"61 RUE GAMBETTA, LA ROCHELLE, 17000, france",LA ROCHELLE,17000,"61, Rue Gambetta, Porte Royale, Saint-Éloi, La Rochelle, Charente-Maritime, Nouvelle-Aquitaine, France métropolitaine, 17000, France",46.1617667,-1.1463528
+237,259,"20 RUE DU GENERAL LECLERC, PERENCHIES, 59840, france",PERENCHIES,59840,"Rue du Général Leclerc, Pérenchies, Lille, Nord, Hauts-de-France, France métropolitaine, 59840, France",50.6641186,2.9763909
+238,260,"73 RUE JEAN BONAL, LA GARENNE-COLOMBES, 92250, france",LA GARENNE-COLOMBES,92250,"Rue Jean Bonal, La Garenne-Colombes, Arrondissement de Nanterre, Hauts-de-Seine, Île-de-France, France métropolitaine, 92250, France",48.9054,2.244275
+239,261,"18 IMP DE LA CLOTTE, BERAT, 31370, france",BERAT,31370,"Impasse de la Clotte, Bérat, Muret, Haute-Garonne, Occitanie, France métropolitaine, 31370, France",43.3689529,1.1659043
+240,262,"55 RUE VANEAU, PARIS 07, 75007, france",PARIS 07,75007,,,
+241,263,"9 RUE JULES GREVY, ROMILLY SUR SEINE, 10100, france",ROMILLY SUR SEINE,10100,"Rue Jules Grévy, Romilly-sur-Seine, Nogent-sur-Seine, Aube, Grand Est, France métropolitaine, 10100, France",48.5160343,3.7312121
+242,264,"7 RUE DE BRAM, LOUHANS, 71500, france",LOUHANS,71500,"7, Rue de Bram, Bourgchâteau, L'Écotet, Louhans, Saône-et-Loire, Bourgogne-Franche-Comté, France métropolitaine, 71500, France",46.62762,5.216735
+243,265,"61 RUE SAINT DIZIER, NANCY, 54000, france",NANCY,54000,"Rue Saint-Dizier, Saint-Nicolas - Charles III - Ville vieille - Trois Maisons - Léopold, Nancy, Meurthe-et-Moselle, Grand Est, France métropolitaine, 54100, France",48.6927016,6.1810389
+244,266,"13 PL DE TRION, LYON 5EME, 69005, france",LYON 5EME,69005,,,
+245,267,"31 ALL DU LUXEMBOURG, LE MANS, 72000, france",LE MANS,72000,"Allée du Luxembourg, Les Maillets, Le Mans, Sarthe, Pays de la Loire, France métropolitaine, 72000, France",48.0198302,0.2080598
+246,268,"32 RUE DES PYRENEES, LOURDES, 65100, france",LOURDES,65100,"32, Rue des Pyrénées, Lourdes, Argelès-Gazost, Hautes-Pyrénées, Occitanie, France métropolitaine, 65100, France",43.0930723,-0.0496532
+247,269,"6 RUE ERNEST RENAN, FITZ JAMES, 60600, france",FITZ JAMES,60600,"6, Rue Ernest Renan, Zone commerciale de la Croix Rouge, Grand Fitz-James, Fitz-James, Clermont, Oise, Hauts-de-France, France métropolitaine, 60600, France",49.390199499999994,2.4144111334337355
+248,270,"5386 RLE SAINT JEAN, BASSE POINTE, 97218, france",BASSE POINTE,97218,"Ruelle Saint-Jean, Lotissement Tapis Vert, Basse-Pointe, La Trinité, Martinique, 97218, France",14.8693034,-61.1150481
+249,271,"3 RUE D ORMESSON, DEUIL LA BARRE, 95170, france",DEUIL LA BARRE,95170,"Rue d'Ormesson, Deuil-la-Barre, Sarcelles, Val-d'Oise, Île-de-France, France métropolitaine, 95170, France",48.966935,2.3174233
+250,273,"1 RUE DU NOROIT, BELFORET-EN-PERCHE, 61130, france",BELFORET-EN-PERCHE,61130,,,
+251,275,"178 CLOS LES PRIMEVERES, VIUZ-EN-SALLAZ, 74250, france",VIUZ-EN-SALLAZ,74250,"Clos les Primevères, Pré de la Cure, Viuz-en-Sallaz, Bonneville, Haute-Savoie, Auvergne-Rhône-Alpes, France métropolitaine, 74250, France",46.14783,6.4151378
+252,277,"24 RUE DU HAUT MONT, ARCHETTES, 88380, france",ARCHETTES,88380,"Rue du Haut-Mont, Le Mont, Archettes, Épinal, Vosges, Grand Est, France métropolitaine, 88380, France",48.1261702,6.5360837
+253,279,"2 SEN MEREVILLE, CHESSY, 77700, france",CHESSY,77700,"Sente Mereville, Fantasyland, Chessy, Torcy, Seine-et-Marne, Île-de-France, France métropolitaine, 77700, France",48.878232,2.7692791
+254,280,"101 ALL DES GLYCINES, LA GARDE, 83130, france",LA GARDE,83130,"Allée des Glycines, Le Thouar, La Garde, Toulon, Var, Provence-Alpes-Côte d'Azur, France métropolitaine, 83130, France",43.1247887,5.9939561
+255,281,"2 PL DE LA LIBERATION, BANNALEC, 29380, france",BANNALEC,29380,"Les Dolomites, 2, Place de la Libération, Résidence Eugène Cadic, Bannalec, Quimper, Finistère, Bretagne, France métropolitaine, 29380, France",47.932507,-3.6975605
+256,283,"18 AV CHARLES DE GAULLE, LE BLANC-MESNIL, 93150, france",LE BLANC-MESNIL,93150,,,
+257,284,"16 RUE DES FOUGERES, BRETTE LES PINS, 72250, france",BRETTE LES PINS,72250,"Rue des Fougères, Le Poirier, Brette-les-Pins, Le Mans, Sarthe, Pays de la Loire, France métropolitaine, 72250, France",47.9153926,0.3317255
+258,285,"5 RUE VAUTHIER, BOULOGNE-BILLANCOURT, 92100, france",BOULOGNE-BILLANCOURT,92100,"5, Rue Vauthier, Les Princes-Marmottan, Boulogne-Billancourt, Hauts-de-Seine, Île-de-France, France métropolitaine, 92100, France",48.8455587,2.2396044
+259,286,"1 RUE DES ECOLES, ST-LON-LES-MINES, 40300, france",ST-LON-LES-MINES,40300,,,
+260,287,"7 RUE RABELAIS, NARBONNE, 11100, france",NARBONNE,11100,"7, Rue Rabelais, Bourg, Narbonne, Aude, Occitanie, France métropolitaine, 11100, France",43.1824573,3.0007101
+261,288,"83 AV FRANCOIS MITTERAND, CHATEAUROUX, 36000, france",CHATEAUROUX,36000,,,
+262,289,"136 BD DE LA PAIX, VANNES, 56000, france",VANNES,56000,"Boulevard de la Paix, Libération, Ouest, Vannes, Morbihan, Bretagne, France métropolitaine, 56000, France",47.6592316,-2.7629832
+263,290,"8 RUE DAGOBERT, CLICHY, 92110, france",CLICHY,92110,"8, Rue Dagobert, Clichy, Arrondissement de Nanterre, Hauts-de-Seine, Île-de-France, France métropolitaine, 92110, France",48.9024914,2.3056049
+264,291,"29 RTE DE LA THIBAUDIERE TERVES, BRESSUIRE, 79300, france",BRESSUIRE,79300,"29, Route de la Thibaudière, La Jobtière, Terves, Bressuire, Deux-Sèvres, Nouvelle-Aquitaine, France métropolitaine, 79300, France",46.8212183,-0.5060735
+265,292,"4 RUE DE PLOMB, TENAY, 1230, france",TENAY,1230,"4, Rue de Plomb, Cité Barmoz, Tenay, Belley, Ain, Auvergne-Rhône-Alpes, France métropolitaine, 01230, France",45.916876,5.5094
+266,293,"40 RUE ITSAS ONDO, URRUGNE, 64122, france",URRUGNE,64122,"Rue Itsas Ondo, Lapurdi, Erlaitza, Urrugne, Bayonne, Pyrénées-Atlantiques, Nouvelle-Aquitaine, France métropolitaine, 64700, France",43.3853784,-1.6934703
+267,294,"2 RUE DE LA GUEULE DU FOUR, BRETIGNOLLES-SUR-MER, 85470, france",BRETIGNOLLES-SUR-MER,85470,,,
+268,295,"2 RUE DU COLONEL FABIEN, ROMILLY SUR SEINE, 10100, france",ROMILLY SUR SEINE,10100,"2, Rue du Colonel Fabien, Romilly-sur-Seine, Nogent-sur-Seine, Aube, Grand Est, France métropolitaine, 10100, France",48.5107394,3.7225848
+269,296,"14 RUE JULES FERRY, MERIGNAC, 33700, france",MERIGNAC,33700,"Rue Jules Ferry, Arlac, Mérignac, Bordeaux, Gironde, Nouvelle-Aquitaine, France métropolitaine, 33700, France",44.8194435,-0.6174031
+270,297,"42 RUE AMBROISE CROIZAT, VILLEJUIF, 94800, france",VILLEJUIF,94800,"42, Rue Ambroise Croizat, Villejuif, Arrondissement de L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94800, France",48.802041,2.36189
+271,298,"6 RUE ELYSEE BENAVENQ, COURNONTERRAL, 34660, france",COURNONTERRAL,34660,"Rue Elysée Benavenq, Cournonterral, Montpellier, Hérault, Occitanie, France métropolitaine, 34660, France",43.5638084,3.706815
+272,299,"22 RUE RAISIN, SAINT-ETIENNE, 42000, france",SAINT-ETIENNE,42000,"22, Rue Raisin, Crêt de Roc, Saint-Étienne, Loire, Auvergne-Rhône-Alpes, France métropolitaine, 42000, France",45.4414669,4.3903222
+273,300,"10 RUE DE LA PERRINE, VATAN, 36150, france",VATAN,36150,,,
+274,301,"27 RUE DU SOUVENIR, THUIR, 66300, france",THUIR,66300,"27, Rue du Souvenir, Thuir, Céret, Pyrénées-Orientales, Occitanie, France métropolitaine, 66300, France",42.63409885,2.754650902688171
+275,302,"23 RUE PUEBLA, PERIGUEUX, 24000, france",PERIGUEUX,24000,"Rue de Puebla, Périgueux, Dordogne, Nouvelle-Aquitaine, France métropolitaine, 24000, France",45.1886646,0.7085893
+276,303,"31 RUE GENERAL MORAND, PERIGUEUX, 24000, france",PERIGUEUX,24000,,,
+277,304,"17 BD BELLES MANIERES, MONTARGIS, 45200, france",MONTARGIS,45200,,,
+278,306,"83 RUE DE LA GARE, PLUVIGNER, 56330, france",PLUVIGNER,56330,"Rue de la Gare, Kergluyar, Bodéveno, Pluvigner, Lorient, Morbihan, Bretagne, France métropolitaine, 56330, France",47.770535,-3.0170226
+279,307,"9 RUE MAL LECLERC, LE BONO, 56400, france",LE BONO,56400,"Rue Maréchal Leclerc, Gorhlér, Le Bono, Vannes, Morbihan, Bretagne, France métropolitaine, 56400, France",47.6386272,-2.9462353
+280,308,"1 CHE DES BUISSONNETS, LISIEUX, 14100, france",LISIEUX,14100,,,
+281,309,"2 PL SAINT JEAN, LYON 5EME, 69005, france",LYON 5EME,69005,,,
+282,310,"23 RUE BARATIER, ARGENTEUIL, 95100, france",ARGENTEUIL,95100,"Rue Baratier, Argenteuil, Val-d'Oise, Île-de-France, France métropolitaine, 95100, France",48.9370715,2.2322641
+283,311,"34 RUE DU GAL F. LEON ORMANCEY, VILLERON, 95380, france",VILLERON,95380,,,
+284,312,"34 AV DE FOIX, VARILHES, 9120, france",VARILHES,9120,"Avenue de Foix, Varilhes, Foix, Ariège, Occitanie, France métropolitaine, 09120, France",43.0416662,1.6244816
+285,313,"6 RUE DU BOIS DE CLAQUET, MONDEVILLE, 14120, france",MONDEVILLE,14120,"Rue du Bois de Claquet, Bois de Claquet, Mondeville, Caen, Calvados, Normandie, France métropolitaine, 14120, France",49.1760606,-0.3031679
+286,314,"73 RUE CARNOT, SAUJON, 17600, france",SAUJON,17600,"73, Rue Carnot, Prés de la Grave, Saujon, Saintes, Charente-Maritime, Nouvelle-Aquitaine, France métropolitaine, 17600, France",45.6729471,-0.9260528
+287,315,"9001 RES LES JARDINS OCCITANS, RAMONVILLE ST AGNE, 31520, france",RAMONVILLE ST AGNE,31520,,,
+288,316,"10 RUE DE LA FORET, CAMBOUNES, 81260, france",CAMBOUNES,81260,,,
+289,317,"23 CHE BARRIEU, BLAGNAC, 31700, france",BLAGNAC,31700,,,
+290,318,"4 RUE FERNAND SABATTE, CHAMIGNY, 77260, france",CHAMIGNY,77260,"Rue Fernand Sabatte, Ferme de Godefroy, Chamigny, Meaux, Seine-et-Marne, Île-de-France, France métropolitaine, 77260, France",48.9731151,3.1536059
+291,319,"69 AV VICTOR HUGO, LE BOUSCAT, 33110, france",LE BOUSCAT,33110,,,
+292,320,"37 ALL DES DAMES, TOURNON-SUR-RHONE, 7300, france",TOURNON-SUR-RHONE,7300,"37, Allée des Dames, Les Poulenards, Tournon-sur-Rhône, Ardèche, Auvergne-Rhône-Alpes, France métropolitaine, 07300, France",45.0592225,4.8359547
+293,321,"2 RUE COLETTE, TOULOUSE, 31200, france",TOULOUSE,31200,"2, Rue Colette, Minimes - Barrière de Paris, Toulouse Nord, Toulouse, Haute-Garonne, Occitanie, France métropolitaine, 31200, France",43.6329176,1.4371733
+294,322,"235 AV LE JOUR SE LEVE, BOULOGNE-BILLANCOURT, 92100, france",BOULOGNE-BILLANCOURT,92100,"235, Avenue Le Jour-Se-Lève, Point du Jour, Boulogne-Billancourt, Hauts-de-Seine, Île-de-France, France métropolitaine, 92100, France",48.83438,2.257888
+295,323,"9100 RUE DU PDS DE LA FARINE, PRADES, 66500, france",PRADES,66500,,,
+296,324,"181 AV COSTA DE BEAUREGARD, LA MOTTE SERVOLEX, 73290, france",LA MOTTE SERVOLEX,73290,"Avenue Costa de Beauregard, Le Cheminet d'en Bas, La Motte-Servolex, Chambéry, Savoie, Auvergne-Rhône-Alpes, France métropolitaine, 73290, France",45.5965771,5.8781532
+297,325,"21 RUE DU MAL LATTRE DE TASSIGNY, SAULCY-SUR-MEURTHE, 88580, france",SAULCY-SUR-MEURTHE,88580,,,
+298,326,"6 RUE BRAULT, ANGERS, 49100, france",ANGERS,49100,"Rue Brault, Doutre-Saint-Jacques-Nazareth, Angers, Maine-et-Loire, Pays de la Loire, France métropolitaine, 49000, France",47.471056,-0.568506
+299,327,"67 RUE DE LA PLAINE, ROQUEFORT, 47310, france",ROQUEFORT,47310,"Rue de la Plaine (GR 652), Roquefort, Agen, Lot-et-Garonne, Nouvelle-Aquitaine, France métropolitaine, 47310, France",44.1875037,0.5676876
+300,328,"489 RUE DE CAEN, IFS, 14123, france",IFS,14123,"Rue de Caen, La Guérinière Ouest, Ifs, Caen, Calvados, Normandie, France métropolitaine, 14123, France",49.1531518,-0.3432196
+301,329,"84 RUE ST JACQUES, NANTES, 44200, france",NANTES,44200,,,
+302,330,"152 CHE TISNE, ARGAGNON, 64300, france",ARGAGNON,64300,"Chemin Tisné, Argagnon, Pau, Pyrénées-Atlantiques, Nouvelle-Aquitaine, France métropolitaine, 64300, France",43.4676237,-0.687772
+303,331,"37 RUE DU TEMPLE, LA ROCHELLE, 17000, france",LA ROCHELLE,17000,"37, Rue du Temple, Quartier de l'Arsenal, La Trompette, La Rochelle, Charente-Maritime, Nouvelle-Aquitaine, France métropolitaine, 17000, France",46.1585316,-1.1533086
+304,332,"4 RUE D ARGOAT, PLOUVORN, 29420, france",PLOUVORN,29420,"Rue d'Argoat, Pen ar Valy, Cité Bellevue, Plouvorn, Morlaix, Finistère, Bretagne, France métropolitaine, 29420, France",48.5780226,-4.0476273
+305,333,"25 RUE PIERRE DE COUBERTIN, SAINT-PORCHAIRE, 17250, france",SAINT-PORCHAIRE,17250,"Rue Pierre de Coubertin, Saint-Porchaire, Saintes, Charente-Maritime, Nouvelle-Aquitaine, France métropolitaine, 17250, France",45.8224432,-0.7761194
+306,334,"1 RUE FRATERNITE, NOGENT SUR OISE, 60180, france",NOGENT SUR OISE,60180,"1, Rue Fraternité, La Commanderie, Nogent-sur-Oise, Senlis, Oise, Hauts-de-France, France métropolitaine, 60180, France",49.2822655,2.4607687
+307,335,"4 RUE DE BUZENVAL, SAINT-CLOUD, 92210, france",SAINT-CLOUD,92210,"Rue de Buzenval, Saint-Cloud, Arrondissement de Nanterre, Hauts-de-Seine, Île-de-France, France métropolitaine, 92210, France",48.8519252,2.2052237
+308,336,"21 CHE DU LYCEE, LA ROCHE SUR FORON, 74800, france",LA ROCHE SUR FORON,74800,,,
+309,337,"58 RUE DE GOUEDIC, SAINT-BRIEUC, 22000, france",SAINT-BRIEUC,22000,"58, Rue de Gouédic, Gouédic, Saint-Brieuc, Côtes-d'Armor, Bretagne, France métropolitaine, 22000, France",48.508472,-2.7532527
+310,338,"96 RUE PASTEUR, ALBERTVILLE, 73200, france",ALBERTVILLE,73200,"Rue Pasteur, Conflans, Albertville, Savoie, Auvergne-Rhône-Alpes, France métropolitaine, 73200, France",45.6681107,6.3862283
+311,339,"20 RUE DE L ABRIVADO, MILHAUD, 30540, france",MILHAUD,30540,"Rue de l'Abrivado, Milhaud, Nîmes, Gard, Occitanie, France métropolitaine, 30540, France",43.7872516,4.3078112
+312,340,"6 IMP DES MIMOSAS, LEZARDRIEUX, 22740, france",LEZARDRIEUX,22740,"Impasse des Mimosas, Kermenguy, Lézardrieux, Lannion, Côtes-d'Armor, Bretagne, France métropolitaine, 22740, France",48.790488,-3.1011855
+313,341,"13 RTE D'ORGE, CHAULGNES, 58400, france",CHAULGNES,58400,"13, Route d'Orge, Eugnes, Chaulgnes, Cosne-Cours-sur-Loire, Nièvre, Bourgogne-Franche-Comté, France métropolitaine, 58400, France",47.118048,3.111018
+314,342,"15 RUE PHILIPPE DE COMMYNES, AMIENS, 80000, france",AMIENS,80000,"15, Rue Philippe de Commynes, Amiens, Somme, Hauts-de-France, France métropolitaine, 80000, France",49.8760248,2.2897736
+315,343,"15 RUE DE LA RUCHE, LYON 3EME, 69003, france",LYON 3EME,69003,,,
+316,344,"31 RUE DE MILLY, PERTHES, 77930, france",PERTHES,77930,"Rue de Milly, Perthes, Fontainebleau, Seine-et-Marne, Île-de-France, France métropolitaine, 77930, France",48.4732898,2.5501449
+317,345,"193 AV JACQUES DOUZANS, MURET, 31600, france",MURET,31600,"Avenue Jacques Douzans, Muret, Haute-Garonne, Occitanie, France métropolitaine, 31600, France",43.4687013,1.3288241
+318,346,"26 RUE ELISABETH GELLY, LIBOURNE, 33500, france",LIBOURNE,33500,"Rue Élisabeth Gelly, Centre-Ville, Libourne, Gironde, Nouvelle-Aquitaine, France métropolitaine, 33500, France",44.916011,-0.2405948
+319,347,"2 RUE VICTOR HUGO, LACANAU, 33680, france",LACANAU,33680,"Rue Victor Hugo, Lacanau-Océan, Lacanau, Lesparre-Médoc, Gironde, Nouvelle-Aquitaine, France métropolitaine, 33680, France",45.0052827,-1.1981994
+320,348,"8 RUE GALPIN THIOU, TOURS, 37000, france",TOURS,37000,"8, Rue Galpin Thiou, Blaise Pascal, Grammont, Tours, Arrondissement de Tours, Indre-et-Loire, Centre-Val de Loire, France métropolitaine, 37000, France",47.3840322,0.6920755
+321,349,"4 MTE FLEURIE, BEAULIEU SUR MER, 6310, france",BEAULIEU SUR MER,6310,"Montée Fleurie, Beaulieu-sur-Mer, Nice, Alpes-Maritimes, Provence-Alpes-Côte d'Azur, France métropolitaine, 06310, France",43.7062713,7.326928
+322,350,"46 RUE ROUBLOT, FONTENAY-SOUS-BOIS, 94120, france",FONTENAY-SOUS-BOIS,94120,"46, Rue Roublot, Parapluies, Fontenay-sous-Bois, Nogent-sur-Marne, Val-de-Marne, Île-de-France, France métropolitaine, 94120, France",48.8499967,2.4616058
+323,351,"34 RUE HENRI BECQUEREL, SAINT-BRIEUC, 22000, france",SAINT-BRIEUC,22000,"34, Rue Henri Becquerel, Établette, Saint-Brieuc, Côtes-d'Armor, Bretagne, France métropolitaine, 22000, France",48.497814,-2.7485854
+324,352,"45 ALL DES FEDES, LA CAVALERIE, 12230, france",LA CAVALERIE,12230,"Allée des Fedes, Zone artisanale Millau Sud, La Cavalerie, Millau, Aveyron, Occitanie, France métropolitaine, 12230, France",44.0152419,3.1333302
+325,353,"49 RUE DES CARNETS, CLAMART, 92140, france",CLAMART,92140,"Rue des Carnets, Jardin Parisien, Clamart, Antony, Hauts-de-Seine, Île-de-France, France métropolitaine, 92140, France",48.789496,2.2596809
+326,354,"141 RUE ARISTIDE BRIAND, LEVALLOIS-PERRET, 92300, france",LEVALLOIS-PERRET,92300,"141, Rue Aristide Briand, Levallois-Perret, Arrondissement de Nanterre, Hauts-de-Seine, Île-de-France, France métropolitaine, 92300, France",48.8963684,2.2973776
+327,355,"17 RUE DES ROMAINS, ANNECY, 74370, france",ANNECY,74370,"17, Rue des Romains, Pringy, Les Recouts, Pringy, Annecy, Haute-Savoie, Auvergne-Rhône-Alpes, France métropolitaine, 74370, France",45.947649549999994,6.1222833293225785
+328,356,"20 RUE JACQUES HENRI LARTIGUE, ISSY-LES-MOULINEAUX, 92130, france",ISSY-LES-MOULINEAUX,92130,"Rue Jacques-Henri Lartigue, Quartier Bords et Val de Seine / Les Arches, Issy-les-Moulineaux, Boulogne-Billancourt, Hauts-de-Seine, Île-de-France, France métropolitaine, 92130, France",48.8246701,2.2619015
+329,357,"28 RUE DURAFOUR, RENNES, 35000, france",RENNES,35000,"28, Rue Durafour, Thabor - Paris, Thabor - Saint-Hélier - Alphonse Guérin, Quartiers Centre, Rennes, Ille-et-Vilaine, Bretagne, France métropolitaine, 35700, France",48.1129466,-1.6572144
+330,358,"34 MTE DES CARRES, VIRIVILLE, 38980, france",VIRIVILLE,38980,"Montée des Carrés, Viriville, Vienne, Isère, Auvergne-Rhône-Alpes, France métropolitaine, 38980, France",45.3095622,5.1872157
+331,359,"22 RUE DE BELFORT, CLICHY, 92110, france",CLICHY,92110,"22, Rue de Belfort, Clichy, Arrondissement de Nanterre, Hauts-de-Seine, Île-de-France, France métropolitaine, 92110, France",48.902897,2.315877
+332,360,"75 IMP DU PRE FALQUET, EPAGNY METZ-TESSY, 74370, france",EPAGNY METZ-TESSY,74370,"Impasse du Pré Falquet, Clos de Tessy, La Villa Trévi, Metz-Tessy, Épagny Metz-Tessy, Annecy, Haute-Savoie, Auvergne-Rhône-Alpes, France métropolitaine, 74370, France",45.9430272,6.1054949
+333,361,"34 RUE PASTEUR, MESNIL-ESNARD (LE), 76240, france",MESNIL-ESNARD (LE),76240,"Rue Pasteur, Le Mesnil-Esnard, Rouen, Seine-Maritime, Normandie, France métropolitaine, 76240, France",49.4162748,1.131905
+334,362,"5 COTE DE FEUQUEROLLES, LES ANDELYS, 27700, france",LES ANDELYS,27700,"Côte de Feuquerolles, La Courcanne, Les Andelys, Eure, Normandie, France métropolitaine, 27700, France",49.250244,1.434126
+335,363,"20 AV ROCHAMBEAU, GRENOBLE, 38100, france",GRENOBLE,38100,"20, Avenue Rochambeau, Foch Aigle Libération, Secteur 3, Grenoble, Isère, Auvergne-Rhône-Alpes, France métropolitaine, 38100, France",45.177757,5.716056247368421
+336,364,"25 RUE DE LOIRE, NEVERS, 58000, france",NEVERS,58000,"Rue de Loire, Cour St Sauveur, Nevers, Nièvre, Bourgogne-Franche-Comté, France métropolitaine, 58000, France",46.9855044,3.1579334
+337,365,"4 SQ JULES BASSET, ACHERES, 78260, france",ACHERES,78260,,,
+338,366,"30 RUE BALAY, SAINT-ETIENNE, 42000, france",SAINT-ETIENNE,42000,"30, Rue Balay, Jacquard, Saint-Étienne, Loire, Auvergne-Rhône-Alpes, France métropolitaine, 42000, France",45.444458,4.3865127
+339,367,"10 RTE DU PLAT HAUT, VILLARS, 42390, france",VILLARS,42390,"Route du Plat Haut, La Sapinière, Villars, Saint-Étienne, Loire, Auvergne-Rhône-Alpes, France métropolitaine, 42390, France",45.466245,4.3639102
+340,368,"1 RUE DU COMMERCE, MONTPELLIER, 34000, france",MONTPELLIER,34000,"1, Rue du Commerce, Gambetta, Centre, Montpellier, Hérault, Occitanie, France métropolitaine, 34060, France",43.6022372,3.8693011
+341,369,"26 RUE PIERRE ET MARIE CURIE SP, DUNKERQUE, 59430, france",DUNKERQUE,59430,,,
+342,370,"10 CHE SAINT FRANCOIS D ASSISE, ROCHE SUR YON (LA), 85000, france",ROCHE SUR YON (LA),85000,,,
+343,371,"9126 CHE DES ARNAVAUX, ISTRES, 13800, france",ISTRES,13800,"Chemin des Arnavaux, Istres, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, France métropolitaine, 13800, France",43.5142028,4.9910632
+344,372,"6 IMP DE LA JANELLE, GRAGNAGUE, 31380, france",GRAGNAGUE,31380,,,
+345,373,"1 AV DE VILLACOUBLAY, MEUDON, 92360, france",MEUDON,92360,"Le Delta, 1, Avenue de Villacoublay, Écoquartier de Meudon, Meudon-la-Forêt, Meudon, Boulogne-Billancourt, Hauts-de-Seine, Île-de-France, France métropolitaine, 92360, France",48.78445,2.233882436984021
+346,374,"8 RUE DES ACACIAS, SAINT-BEAUZIRE, 63360, france",SAINT-BEAUZIRE,63360,"Rue des Acacias, Saint-Beauzire, Riom, Puy-de-Dôme, Auvergne-Rhône-Alpes, France métropolitaine, 63360, France",45.8479705,3.1767371
+347,375,"12 RUE DES POIREAUX, PRIVAS, 7000, france",PRIVAS,7000,"12, Rue des Poireaux, Privas, Ardèche, Auvergne-Rhône-Alpes, France métropolitaine, 07000, France",44.7354546,4.5961468
+348,377,"37 AV DU MARECHAL LECLERC, LAVAL, 53000, france",LAVAL,53000,"Avenue du Maréchal Leclerc, Gare-Senelle-Pont de Paris, Laval, Mayenne, Pays de la Loire, France métropolitaine, 53000, France",48.0753635,-0.7599955
+349,378,"2 RUE JEAN BONNARDEL, VILLENAVE D ORNON, 33140, france",VILLENAVE D ORNON,33140,,,
+350,380,"3 PL DES FUSILLES, CALAIS, 62100, france",CALAIS,62100,"Place des Fusillés, Calais-Nord, Calais, Pas-de-Calais, Hauts-de-France, France métropolitaine, 62100, France",50.9577003,1.8453532
+351,382,"27 RUE DELABY, DOUAI, 59500, france",DOUAI,59500,"Rue Delaby, Douai, Nord, Hauts-de-France, France métropolitaine, 59500, France",50.3796608,3.0753412
+352,383,"47 RUE JEAN JAURES, PLOUMAGOAR, 22970, france",PLOUMAGOAR,22970,"Rue Jean Jaurès, Ploumagoar, Guingamp, Côtes-d'Armor, Bretagne, France métropolitaine, 22970, France",48.5551705,-3.1360034
+353,384,"1140 RTE DE SAINT JEAN, ANTIBES, 6600, france",ANTIBES,6600,"Route de Saint-Jean, Antibes, Grasse, Alpes-Maritimes, Provence-Alpes-Côte d'Azur, France métropolitaine, 06600, France",43.5833713,7.1084402
+354,385,"58 RUE PAPU, RENNES, 35000, france",RENNES,35000,"Rue Papu, Le Mail, Bourg l'Évesque, Bourg l'Évesque - La Touche - Moulin du Comte, Quartiers Ouest, Rennes, Ille-et-Vilaine, Bretagne, France métropolitaine, 35000, France",48.1113305,-1.6907884
+355,386,"24 AV DE LA GARE, UZES, 30700, france",UZES,30700,"24, Avenue de la Gare, Uzès, Nîmes, Gard, Occitanie, France métropolitaine, 30700, France",44.011326,4.4135655
+356,387,"127 RTE DE DIEPPE, MAROMME, 76150, france",MAROMME,76150,"Route de Dieppe, Maromme, Rouen, Seine-Maritime, Normandie, France métropolitaine, 76150, France",49.4831905,1.0484329
+357,388,"13 RUE DE BRIANT, CLAYETTE (LA), 71800, france",CLAYETTE (LA),71800,"13, Rue de Briant, Lotissement du Belvédère, La Clayette, Charolles, Saône-et-Loire, Bourgogne-Franche-Comté, France métropolitaine, 71800, France",46.2881493,4.3064565
+358,389,"3 RUE DE LA POSTE, AZAY SUR CHER, 37270, france",AZAY SUR CHER,37270,"O'Cocot d'Azay, 3, Rue de la Poste, Le Fauvin, La Trute, Azay-sur-Cher, Arrondissement de Tours, Indre-et-Loire, Centre-Val de Loire, France métropolitaine, 37270, France",47.349961500000006,0.8461466285714291
+359,390,"14 RUE DE SAINT OMER, WIZERNES, 62570, france",WIZERNES,62570,"12, 14, Rue de Saint-Omer, Wizernes, Saint-Omer, Pas-de-Calais, Hauts-de-France, France métropolitaine, 62570, France",50.7103975,2.2294195756578947
+360,391,"21 AV DES BAINS, BALARUC LE VIEUX, 34540, france",BALARUC LE VIEUX,34540,"Avenue des Bains, Balaruc-le-Vieux, Montpellier, Hérault, Occitanie, France métropolitaine, 34540, France",43.4583826,3.6855473
+361,392,"9 BD PEREIRE, PARIS 17, 75017, france",PARIS 17,75017,,,
+362,393,"7 AV GALLIENI, MELUN, 77000, france",MELUN,77000,"Avenue Gallieni, Melun, Seine-et-Marne, Île-de-France, France métropolitaine, 77000, France",48.5292379,2.6547182
+363,394,"1056 CHE DES CAMPELIERES, MOUGINS, 6250, france",MOUGINS,6250,"Crédit Agricole, 1056, Chemin des Campelières, Espace d'activités du Campon, Mougins, Grasse, Alpes-Maritimes, Provence-Alpes-Côte d'Azur, France métropolitaine, 06250, France",43.5824495,7.0089805
+364,395,"24 AV CLAUDE MONET, MARSEILLE 14EME, 13014, france",MARSEILLE 14EME,13014,,,
+365,396,"6 AV DE LA GARE, AVIGNON, 84000, france",AVIGNON,84000,"6, Avenue de la Gare, Courtine, Quartier Ouest, Avignon, Vaucluse, Provence-Alpes-Côte d'Azur, France métropolitaine, 84000, France",43.9264644,4.7858116
+366,397,"26 RUE DES FRERES MOSTADE, PLESCOP, 56890, france",PLESCOP,56890,"Rue des Frères Mostade, Kerbéret, Plescop, Vannes, Morbihan, Bretagne, France métropolitaine, 56890, France",47.7013906,-2.809655
+367,398,"30 RUE PERRAULT, LIMOGES, 87000, france",LIMOGES,87000,"Rue Charles Perrault, Montplaisir, La Bastide, Limoges, Haute-Vienne, Nouvelle-Aquitaine, France métropolitaine, 87045, France",45.8431396,1.2817724
+368,399,"2 RUE BARBAUD, PONTARLIER, 25300, france",PONTARLIER,25300,"2, Rue Barbaud, Centre Ville, Pontarlier, Doubs, Bourgogne-Franche-Comté, France métropolitaine, 25300, France",46.901798,6.355916
+369,400,"32 RUE RASPAIL HELLEMMES, LILLE, 59260, france",LILLE,59260,"32, Rue Raspail, L'Épine, Hellemmes-Lille, Lille, Nord, Hauts-de-France, France métropolitaine, 59260, France",50.6270468,3.1125504
+370,401,"13 AV JOHN KENNEDY, OIGNIES, 62590, france",OIGNIES,62590,"Avenue John Kennedy, Oignies, Lens, Pas-de-Calais, Hauts-de-France, France métropolitaine, 62590, France",50.4619761,2.994449
+371,402,"43 RUE PHILIBERT, SAINT DENIS, 97400, france",SAINT DENIS,97400,"Rue Philibert, Saint-Jacques, Saint-Denis, La Réunion, 97400, France",-20.8870847,55.4472897
+372,403,"40 AV DE L HERMITAGE, ESPALY-SAINT-MARCEL, 43000, france",ESPALY-SAINT-MARCEL,43000,"Avenue de l'Hermitage, Saint Marcel, Espaly-Saint-Marcel, Le Puy-en-Velay, Haute-Loire, Auvergne-Rhône-Alpes, France métropolitaine, 43000, France",45.0541875,3.8663101
+373,404,"1 RUE DU HAUT DU BOIS, LERRAIN, 88260, france",LERRAIN,88260,"1, Rue du Haut du Bois, Lerrain, Neufchâteau, Vosges, Grand Est, France métropolitaine, 88260, France",48.1432691,6.1491986
+374,405,"9004 AV HENRI BECQUEREL, MERIGNAC, 33700, france",MERIGNAC,33700,"Avenue Henri Becquerel, Parc Kennedy, Beaudésert, Mérignac, Bordeaux, Gironde, Nouvelle-Aquitaine, France métropolitaine, 33700, France",44.8363188,-0.687288
+375,406,"651 CHE DE ST ELOI, LA CIOTAT, 13600, france",LA CIOTAT,13600,"Chemin de Saint-Eloi, Vallon de Fanèu, La Ciotat, Marseille, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, France métropolitaine, 13600, France",43.2012687,5.6399813
+376,407,"12 RUE DU LT COL ANDRE BORDEREAUX, MOUZON, 8210, france",MOUZON,8210,,,
+377,408,"9001 RUE DE CHARENTE, ST-HERBLAIN, 44800, france",ST-HERBLAIN,44800,"Rue de Charente, Harlière Sud, Saint-Herblain, Nantes, Loire-Atlantique, Pays de la Loire, France métropolitaine, 44800, France",47.2127035,-1.6143234
+378,409,"60 RUE JEAN CALOT, TERRE DE HAUT, 97137, france",TERRE DE HAUT,97137,"60, Rue Jean Calot, Le Mouillage, Le Marigot, Terre-de-Haut, Basse-Terre, Guadeloupe, 97137, France",15.871553,-61.5831594
+379,410,"19 VTE VIEILLE RTE DE MONS, DONNEMARIE-DONTILLY, 77520, france",DONNEMARIE-DONTILLY,77520,,,
+380,411,"58 RUE DES BELLES HATES, ERAGNY-SUR-OISE, 95610, france",ERAGNY-SUR-OISE,95610,,,
+381,412,"6779 CHE DE RACLEBOURSE, SAINT-DENIS-D'OLERON, 17650, france",SAINT-DENIS-D'OLERON,17650,"Chemin de Raclebourse, Les Morelières, Saint-Denis-d'Oléron, Rochefort, Charente-Maritime, Nouvelle-Aquitaine, France métropolitaine, 17650, France",46.0400625,-1.3982164
+382,414,"95 RUE DENFERT ROCHEREAU, SAINT QUENTIN, 2100, france",SAINT QUENTIN,2100,"95, Rue Denfert Rochereau, Saint-Quentin, Aisne, Hauts-de-France, France métropolitaine, 02100, France",49.8515765,3.279529
+383,416,"310 RTE DE CALVISSON, CALVISSON, 30420, france",CALVISSON,30420,"Route de Calvisson, Bizac, Calvisson, Nîmes, Gard, Occitanie, France métropolitaine, 30420, France",43.7789136,4.2082974
+384,417,"8 BD DE CHINON, JOUE LES TOURS, 37300, france",JOUE LES TOURS,37300,,,
+385,418,"9001 RES LA COUPIANE, LA VALETTE DU VAR, 83160, france",LA VALETTE DU VAR,83160,"Résidence La Coupiane, La Valette-du-Var, Toulon, Var, Provence-Alpes-Côte d'Azur, France métropolitaine, 83160, France",43.1288399,5.9905445
+386,419,"7 RUE DU BOIS DU CHATEAU, LORIENT, 56100, france",LORIENT,56100,"Rue du Bois du Château, Le Bois du Château, Lorient, Morbihan, Bretagne, France métropolitaine, 56100, France",47.7694826,-3.3738801
+387,420,"96 RTE PRE CHATELAIN, SAINT-SAVIN, 38300, france",SAINT-SAVIN,38300,,,
+388,421,"83 RUE JEAN JACQUES ROUSSEAU, LIBOURNE, 33500, france",LIBOURNE,33500,"Rue Jean-Jacques Rousseau, Centre-Ville, Libourne, Gironde, Nouvelle-Aquitaine, France métropolitaine, 33500, France",44.9154529,-0.2429114
+389,422,"433 RTE DE LA SALLE DES FETES, CASTELS ET BEZENAC, 24220, france",CASTELS ET BEZENAC,24220,"Route de la Salle des Fêtes, Finsac, Castels, Castels et Bézenac, Sarlat-la-Canéda, Dordogne, Nouvelle-Aquitaine, France métropolitaine, 24220, France",44.8691191,1.0742443
+390,423,"8 RUE MARECHAL FOCH, CLERMONT FERRAND, 63000, france",CLERMONT FERRAND,63000,,,
+391,424,"29 MTE DE LA CASTAGNETTE, SAINT-PRIVAT, 7200, france",SAINT-PRIVAT,7200,"Montée de la Castagnette, L'Houme, Saint-Privat, Largentière, Ardèche, Auvergne-Rhône-Alpes, France métropolitaine, 07200, France",44.6391905,4.4118376
+392,425,"38 RUE PAUL BERT, GIEN, 45500, france",GIEN,45500,"38, Rue Paul Bert, Pont Boucherot, Gien, Montargis, Loiret, Centre-Val de Loire, France métropolitaine, 45500, France",47.6874804,2.6268685
+393,426,"33 BD SAINT SIMON, DRANCY, 93700, france",DRANCY,93700,"Boulevard Saint-Simon, Petit Drancy, Drancy, Le Raincy, Seine-Saint-Denis, Île-de-France, France métropolitaine, 93700, France",48.9207688,2.4365815
+394,427,"3 BD FEART, DINARD, 35800, france",DINARD,35800,"Le Café Rouge, 3, Boulevard Féart, La Malouine, Saint-Énogat, Dinard, Saint-Malo, Ille-et-Vilaine, Bretagne, France métropolitaine, 35800, France",48.6347942,-2.0545919
+395,428,"472 RTE DES EPINETTES ST M.LOUPS, JULLOUVILLE, 50610, france",JULLOUVILLE,50610,,,
+396,429,"8 RTE DU LAVOIR - PRETOT, MONTSENELLE, 50250, france",MONTSENELLE,50250,"Route du Lavoir, La Guérie, Prétot-Sainte-Suzanne, Montsenelle, Coutances, Manche, Normandie, France métropolitaine, 50250, France",49.3160075,-1.4624053
+397,430,"22 CHE DU PRAZILLON, SAINT-NAZAIRE, 44600, france",SAINT-NAZAIRE,44600,"Chemin du Prazillon, Les Rochelles, Saint-Nazaire, Loire-Atlantique, Pays de la Loire, France métropolitaine, 44600, France",47.2429463,-2.2656293
+398,431,"57 CHE COMMINS, SAINT DENIS, 97417, france",SAINT DENIS,97417,"Chemin commins, La Montagne, Ruisseau Blanc, Saint-Denis, La Réunion, 97417, France",-20.8918762,55.4095812
+399,432,"12 RUE LAVOISIER, ST JEAN DE BRAYE, 45800, france",ST JEAN DE BRAYE,45800,,,
+400,434,"1 RUE RENOU, ANGERS, 49100, france",ANGERS,49100,"Rue Renou, Saint-Serge - Ney - Chalouère, Angers, Maine-et-Loire, Pays de la Loire, France métropolitaine, 49100, France",47.4771438,-0.5457477
+401,435,"2361 RUE DE MACON, MONTMERLE-SUR-SAONE, 1090, france",MONTMERLE-SUR-SAONE,1090,"Rue de Mâcon, Les Cariats, Le Peleux, Montmerle-sur-Saône, Bourg-en-Bresse, Ain, Auvergne-Rhône-Alpes, France métropolitaine, 01090, France",46.0912409,4.7560297
+402,436,"1 RUE DE NEROTTE, BOURGNEUF, 17220, france",BOURGNEUF,17220,"Rue de Nérotte, Bourgneuf, La Rochelle, Charente-Maritime, Nouvelle-Aquitaine, France métropolitaine, 17220, France",46.1720734,-1.0189829
+403,437,"17 AV DE LA CONCORDE, DIJON, 21000, france",DIJON,21000,"17, Avenue de la Concorde, Côteaux du Suzon, Clos de Pouilly, Dijon, Côte-d'Or, Bourgogne-Franche-Comté, France métropolitaine, 21000, France",47.3519835,5.0424799
+404,438,"12 RUE HENRI PROVOSTIC, PLOUDALMEZEAU, 29830, france",PLOUDALMEZEAU,29830,"Rue Henri Provostic, Kerjolys, Ploudalmézeau, Brest, Finistère, Bretagne, France métropolitaine, 29830, France",48.5414641,-4.6594049
+405,439,"11 RUE SALVADOR ALLENDE, AIGUES-VIVES, 30670, france",AIGUES-VIVES,30670,"11, Rue Salvador Allende, Aigues-Vives, Nîmes, Gard, Occitanie, France métropolitaine, 30670, France",43.7410595,4.174352
+406,440,"1 RUE HUGO ELY ZAC, AIX EN PROVENCE, 13090, france",AIX EN PROVENCE,13090,,,
+407,441,"1 RUE DE STRASBOURG, EPINAY SUR SEINE, 93800, france",EPINAY SUR SEINE,93800,,,
+408,442,"129 RUE DE LA REPUBLIQUE, HAUTS DE BIENNE, 39400, france",HAUTS DE BIENNE,39400,"Rue de la République, Morez, Hauts de Bienne, Saint-Claude, Jura, Bourgogne-Franche-Comté, France métropolitaine, 39400, France",46.5109816,6.0292927
+409,443,"13 QUAI HENRI MATISSE, WASQUEHAL, 59290, france",WASQUEHAL,59290,,,
+410,444,"5000 RES LE SCOTTISH, CAMIERS, 62176, france",CAMIERS,62176,,,
+411,445,"46 AV DES FRENES, MONTEVRAIN, 77144, france",MONTEVRAIN,77144,"Avenue des Frênes, Montévrain, Torcy, Seine-et-Marne, Île-de-France, France métropolitaine, 77144, France",48.8696085,2.7607596
+412,446,"6 RUE DE BOULOGNE, LILLE, 59800, france",LILLE,59800,"6, Rue de Boulogne, Vauban-Esquermes, Vauban Esquermes, Lille, Nord, Hauts-de-France, France métropolitaine, 59130, France",50.6339057,3.0430329
+413,447,"62 AV VICTOR HUGO, TULLE, 19000, france",TULLE,19000,,,
+414,448,"1555 RTE DU CHEF LIEU, MARLIOZ, 74270, france",MARLIOZ,74270,"1555, Route du Chef Lieu, Grière, Marlioz, Saint-Julien-en-Genevois, Haute-Savoie, Auvergne-Rhône-Alpes, France métropolitaine, 74270, France",46.032341,6.016700445969125
+415,449,"9004 ALL DU GENERAL RULLIERE, SAINT-ETIENNE, 42100, france",SAINT-ETIENNE,42100,"Allée du Général Rullière, Centre Deux, Saint-Étienne, Loire, Auvergne-Rhône-Alpes, France métropolitaine, 42100, France",45.4227984,4.3935127
+416,450,"11 RUE DE L ALLEE, CALLAC, 22160, france",CALLAC,22160,"11, Rue de l'Allée, Botmel, Callac, Guingamp, Côtes-d'Armor, Bretagne, France métropolitaine, 22160, France",48.406296,-3.42721
+417,451,"32 RUE DE LA FORET, HERMERAY, 78125, france",HERMERAY,78125,,,
+418,452,"26 RUE ANDRE CHENIER, ISSY-LES-MOULINEAUX, 92130, france",ISSY-LES-MOULINEAUX,92130,"26, Rue André Chénier, Quartier Centre-Ville / Corentin Celton / Les Varennes, Issy-les-Moulineaux, Boulogne-Billancourt, Hauts-de-Seine, Île-de-France, France métropolitaine, 92130, France",48.8220989,2.2707193
+419,453,"40 AV LEON BLUM, MERIGNAC, 33700, france",MERIGNAC,33700,"Avenue Léon Blum, Le Grand Louis, Capeyron, Mérignac, Bordeaux, Gironde, Nouvelle-Aquitaine, France métropolitaine, 33700, France",44.8525417,-0.6446565
+420,454,"44 AV DU MIDI, ALLASSAC, 19240, france",ALLASSAC,19240,"Avenue du Midi, Garavet, Allassac, Brive-la-Gaillarde, Corrèze, Nouvelle-Aquitaine, France métropolitaine, 19240, France",45.2518506,1.4610811
+421,455,"26 RUE DES CASSONS, BAYET, 3500, france",BAYET,3500,"Rue des Cassons, Bayet, Moulins, Allier, Auvergne-Rhône-Alpes, France métropolitaine, 03500, France",46.2455419,3.283159
+422,457,"5 IMP LOUIS GUILLOUX, MONTIVILLIERS, 76290, france",MONTIVILLIERS,76290,"Impasse Louis Guilloux, Belle Étoile, Montivilliers, Le Havre, Seine-Maritime, Normandie, France métropolitaine, 76290, France",49.5497217,0.1766758
+423,458,"41 RUE CONSTANTIN, BORDEAUX, 33000, france",BORDEAUX,33000,"41, Rue Constantin, Paul Doumer, Chartrons - Grand Parc - Jardin Public, Bordeaux, Gironde, Nouvelle-Aquitaine, France métropolitaine, 33000, France",44.8506208,-0.5740477
+424,459,"6 RUE FRANCHE, COURNON D AUVERGNE, 63800, france",COURNON D AUVERGNE,63800,"Rue Franche, Cournon-d'Auvergne, Clermont-Ferrand, Puy-de-Dôme, Auvergne-Rhône-Alpes, France métropolitaine, 63800, France",45.7407531,3.1983002
+425,460,"59 RUE DE LYON, BREST, 29200, france",BREST,29200,"59, Rue de Lyon, Poullic-al-Lor, Centre Ville, Brest, Finistère, Bretagne, France métropolitaine, 29200, France",48.3905697,-4.4919246
+426,461,"8 AV DES CHENES, BEAUVAIS, 60000, france",BEAUVAIS,60000,,,
+427,462,"13 IMP NOTRE DAME DU MAI, LA VALETTE DU VAR, 83160, france",LA VALETTE DU VAR,83160,"Impasse Notre-Dame-du-Mai, Lotissement Clos des Pins, La Valette-du-Var, Toulon, Var, Provence-Alpes-Côte d'Azur, France métropolitaine, 83160, France",43.1440712,6.0006034
+428,463,"94 AV DE LA GARE, LE BUGUE, 24260, france",LE BUGUE,24260,"Avenue de la Gare, La Gardelle, Combe Nègre, Le Bugue, Sarlat-la-Canéda, Dordogne, Nouvelle-Aquitaine, France métropolitaine, 24260, France",44.9108661,0.9381525
+429,464,"12 CHE LE CARREROT, NESTIER, 65150, france",NESTIER,65150,,,
+430,465,"7 RUE DE LA DHEUNE, ESSERTENNE, 71510, france",ESSERTENNE,71510,"Rue de la Dheune, Essertenne, Autun, Saône-et-Loire, Bourgogne-Franche-Comté, France métropolitaine, 71510, France",46.8019981,4.5691755
+431,466,"9001 RES BELLEVUE CLEMENCEAU, BIARRITZ, 64200, france",BIARRITZ,64200,,,
+432,467,"8075 RES LES JARDINS DE LA BAIE, CAVALAIRE-SUR-MER, 83240, france",CAVALAIRE-SUR-MER,83240,,,
+433,468,"31 RUE DU MOULIN COLLET, PELLERIN (LE), 44640, france",PELLERIN (LE),44640,"31, Rue du Moulin Collet, Le Paradis, Le Pellerin, Nantes, Loire-Atlantique, Pays de la Loire, France métropolitaine, 44640, France",47.2026104,-1.7635186
+434,469,"21 CHE DE LA BOUSQUIE, ROUFFIAC, 81150, france",ROUFFIAC,81150,,,
+435,470,"5 ALL DES BERGES, LAGNY-SUR-MARNE, 77400, france",LAGNY-SUR-MARNE,77400,"Allée des Berges, Lagny-sur-Marne, Torcy, Seine-et-Marne, Île-de-France, France métropolitaine, 77400, France",48.8790859,2.6958433
+436,471,"199 RUE COLBERT, LILLE, 59800, france",LILLE,59800,"199, Rue Colbert, Wazemmes, Lille, Nord, Hauts-de-France, France métropolitaine, 59046, France",50.6344584,3.0409587
+437,472,"39 AV GERMAINE, EPPEVILLE, 80400, france",EPPEVILLE,80400,"Avenue Germaine, Epeville, Eppeville, Péronne, Somme, Hauts-de-France, France métropolitaine, 80400, France",49.7388796,3.0523293
+438,473,"8 IMP DU MOULIN, PIERREFITTE-ES-BOIS, 45360, france",PIERREFITTE-ES-BOIS,45360,"Impasse du Moulin, Pierrefitte-ès-Bois, Montargis, Loiret, Centre-Val de Loire, France métropolitaine, 45360, France",47.5074539,2.7147859
+439,474,"23 IMP BAOBAB, SAINT-BENOIT, 97470, france",SAINT-BENOIT,97470,,,
+440,475,"136 RUE DES CHAMPARONS, COLOMBES, 92700, france",COLOMBES,92700,"Rue des Champarons, Colombes, Arrondissement de Nanterre, Hauts-de-Seine, Île-de-France, France métropolitaine, 92700, France",48.9306265,2.2721451
+441,476,"74 RUE DU TEMPLE, PARIS 03, 75003, france",PARIS 03,75003,,,
+442,477,"17 CHE DE SAINT JAMES, CORNEBARRIEU, 31700, france",CORNEBARRIEU,31700,,,
+443,479,"29 RUE DES GOUTTIERES, SAINT-FLORENTIN, 89600, france",SAINT-FLORENTIN,89600,"Rue des Gouttières, Saint-Florentin, Auxerre, Yonne, Bourgogne-Franche-Comté, France métropolitaine, 89600, France",48.0043551,3.7231823
+444,480,"44 QUAI NICOLAS ROLIN, DIJON, 21000, france",DIJON,21000,"44, Quai Nicolas Rolin, Faubourg Raines, Port du Canal, Dijon, Côte-d'Or, Bourgogne-Franche-Comté, France métropolitaine, 21000, France",47.3173572,5.0232487
+445,482,"9194 RUE DU STADE, BALARUC LES BAINS, 34540, france",BALARUC LES BAINS,34540,"Rue du Stade, Balaruc-les-Bains, Montpellier, Hérault, Occitanie, France métropolitaine, 34540, France",43.4433251,3.674366
+446,483,"130 RUE DES SOURCES, ANSE, 69480, france",ANSE,69480,"130, Rue des Sources, Anse, Villefranche-sur-Saône, Rhône, Circonscription départementale du Rhône, Auvergne-Rhône-Alpes, France métropolitaine, 69480, France",45.9490934,4.7105608
+447,484,"18 AV PAUL MICHONNEAU, ARRAS, 62000, france",ARRAS,62000,"Avenue Paul Michonneau, Arras, Pas-de-Calais, Hauts-de-France, France métropolitaine, 62000, France",50.2959094,2.783363
+448,485,"98 RUE GABRIEL PERI, FONTENAY-SOUS-BOIS, 94120, france",FONTENAY-SOUS-BOIS,94120,"98, Rue Gabriel Péri, Parapluies, Fontenay-sous-Bois, Nogent-sur-Marne, Val-de-Marne, Île-de-France, France métropolitaine, 94120, France",48.853884,2.4512728
+449,486,"57 RUE DES CANADIENS BIHOREL, BIHOREL, 76420, france",BIHOREL,76420,"Rue des Canadiens, Quartier Châtelet / Lombardie / Sapins, Bihorel, Rouen, Seine-Maritime, Normandie, France métropolitaine, 76420, France",49.4568773,1.1265532
+450,487,"8 RUE FRANCIS GUEZENNEC, LESNEVEN, 29260, france",LESNEVEN,29260,"Rue Francis Guézennec, Lescoat, Lesneven, Brest, Finistère, Bretagne, France métropolitaine, 29260, France",48.5777908,-4.3116831
+451,488,"5 RUE DE LA BOUCHERIE, VANNES, 56000, france",VANNES,56000,"Rue de la Boucherie, Centre - Le Port, Vannes, Morbihan, Bretagne, France métropolitaine, 56000, France",47.6599526,-2.758694
+452,489,"40 RUE BOTTOLIER, EVREUX, 27000, france",EVREUX,27000,"40, Rue Bottolier, La Madeleine, Le Clos au Duc, Évreux, Eure, Normandie, France métropolitaine, 27000, France",49.0146662,1.15897
+453,490,"54 RUE PAUL LAFARGUE, PARAY-VIEILLE-POSTE, 91550, france",PARAY-VIEILLE-POSTE,91550,"54, Rue Paul Lafargue, Paray-Vieille-Poste, Palaiseau, Essonne, Île-de-France, France métropolitaine, 91550, France",48.7062732,2.3536592
+454,491,"13 RUE MARCELLIN CHAMPAGNAT, SAINT-ETIENNE, 42100, france",SAINT-ETIENNE,42100,"13, Rue Marcellin Champagnat, La Dame Blanche, Saint-Étienne, Loire, Auvergne-Rhône-Alpes, France métropolitaine, 42100, France",45.4313458,4.4105786
+455,492,"3 RES DE PARK AR CHR'A, SAINT-QUAY-PERROS, 22700, france",SAINT-QUAY-PERROS,22700,,,
+456,493,"29 RUE DU PORCHE, CHATEAUGIRON, 35410, france",CHATEAUGIRON,35410,"Rue du Porche, Châteaugiron, Rennes, Ille-et-Vilaine, Bretagne, France métropolitaine, 35410, France",48.0473915,-1.5019417
+457,494,"5218 CHE DE L ARGILE, MARSEILLE 10EME, 13010, france",MARSEILLE 10EME,13010,,,
+458,495,"20 RUE DES VIGNES NOIRES, AUCHAY-SUR-VENDEE, 85200, france",AUCHAY-SUR-VENDEE,85200,"Rue des Vignes Noires, Le Gros Boeuf, Auzay, Auchay-sur-Vendée, Fontenay-le-Comte, Vendée, Pays de la Loire, France métropolitaine, 85200, France",46.4441969,-0.8693749
+459,496,"293 RUE DE ROSNY, MONTREUIL, 93100, france",MONTREUIL,93100,"Rue de Rosny, Signac - Murs-à-Pêches, Montreuil, Bobigny, Seine-Saint-Denis, Île-de-France, France métropolitaine, 93100, France",48.8668916,2.4563044
+460,497,"2 RUE DU FIER, ANNECY, 74960, france",ANNECY,74960,"2, Rue du Fier, Meythet, Annecy, Haute-Savoie, Auvergne-Rhône-Alpes, France métropolitaine, 74960, France",45.909473,6.087949
+461,498,"246 CRS DE LA MARNE, BORDEAUX, 33800, france",BORDEAUX,33800,"246, Cours de la Marne, Saint-Jean, Bordeaux Sud, Bordeaux, Gironde, Nouvelle-Aquitaine, France métropolitaine, 33800, France",44.8273409,-0.556837
+462,499,"10 CITE DU CALVAIRE, LAROQUEBROU, 15150, france",LAROQUEBROU,15150,"10, Cité du Calvaire, La Croix du Maigre, Messac, Laroquebrou, Aurillac, Cantal, Auvergne-Rhône-Alpes, France métropolitaine, 15150, France",44.9670026,2.1949619
+463,500,"17 BD CHRISTOPHE MONCADA, MARSEILLE 15EME, 13015, france",MARSEILLE 15EME,13015,,,
+464,501,"4 RUE NATIONALE, ISSOU, 78440, france",ISSOU,78440,"4, Rue Nationale, Issou, Mantes-la-Jolie, Yvelines, Île-de-France, France métropolitaine, 78440, France",48.988103,1.800397
+465,502,"24 RUE DES LILAS, RICHARDMENIL, 54630, france",RICHARDMENIL,54630,"24, Rue des Lilas, Richardménil, Nancy, Meurthe-et-Moselle, Grand Est, France métropolitaine, 54630, France",48.5971921,6.1699464
+466,503,"5 AV MEISSONIER, POISSY, 78300, france",POISSY,78300,"Avenue Meissonier, L'Abbaye, Poissy, Saint-Germain-en-Laye, Yvelines, Île-de-France, France métropolitaine, 78300, France",48.9287837,2.0380396
+467,504,"54 RTE DU COL DE LA LUERE, GREZIEU-LA-VARENNE, 69290, france",GREZIEU-LA-VARENNE,69290,"54, Route du Col de la Luère, Grézieu-la-Varenne, Lyon, Rhône, Circonscription départementale du Rhône, Auvergne-Rhône-Alpes, France métropolitaine, 69290, France",45.748647000000005,4.672205670123839
+468,505,"15 AV DUFAU, PAU, 64000, france",PAU,64000,"Avenue Dufau, Dufau-Tourasse, Pau, Pyrénées-Atlantiques, Nouvelle-Aquitaine, France métropolitaine, 64000, France",43.3046961,-0.3681862
+469,506,"16 RUE MARIE CHAMOUX, GRENOBLE, 38100, france",GRENOBLE,38100,"Rue Marie Chamoux, Châtelet Abbaye Jouhaux, Secteur 5, Grenoble, Isère, Auvergne-Rhône-Alpes, France métropolitaine, 38100, France",45.1804873,5.7460653
+470,507,"19 RUE JEAN SEBASTIEN BACH, LISIEUX, 14100, france",LISIEUX,14100,"Rue Jean-Sébastien Bach, Lisieux, Calvados, Normandie, France métropolitaine, 14100, France",49.1447146,0.2565547
+471,508,"2 ALL DES PERVENCHES, ANDERNOS-LES-BAINS, 33510, france",ANDERNOS-LES-BAINS,33510,"Allée des Pervenches, Le Clos des Moliettes 1, Andernos-les-Bains, Arcachon, Gironde, Nouvelle-Aquitaine, France métropolitaine, 33510, France",44.7445107,-1.0885991
+472,509,"102 GAL DE L'ARLEQUIN, GRENOBLE, 38100, france",GRENOBLE,38100,"Galerie de l'Arlequin, Villeneuve, Secteur 6, Grenoble, Isère, Auvergne-Rhône-Alpes, France métropolitaine, 38100, France",45.1646423,5.7337938
+473,510,"107 AV PAUL DOUMER, MONTESSON, 78360, france",MONTESSON,78360,"107, Avenue Paul Doumer, Montesson, Saint-Germain-en-Laye, Yvelines, Île-de-France, France métropolitaine, 78360, France",48.908332,2.157932
+474,511,"53 BD ALEXANDRE 3, DUNKERQUE, 59140, france",DUNKERQUE,59140,,,
+475,512,"21 AV KLEBER, DUNKERQUE, 59240, france",DUNKERQUE,59240,"21, Avenue Kléber, Malo-Centre, Malo-les-Bains, Dunkerque, Nord, Hauts-de-France, France métropolitaine, 59240, France",51.0480813,2.3966754
+476,513,"9003 RUE DE LA FOSSE, ETAIS, 21500, france",ETAIS,21500,"Rue de la Fosse, Étais, Montbard, Côte-d'Or, Bourgogne-Franche-Comté, France métropolitaine, 21500, France",47.7066376,4.4349385
+477,514,"19 RUE ANDRIOLI, NICE, 6000, france",NICE,6000,"19, Rue Andrioli, Grosso, Les Baumettes, Nice, Alpes-Maritimes, Provence-Alpes-Côte d'Azur, France métropolitaine, 06046, France",43.6963939,7.2537527
+478,515,"34 RUE DU GENERAL LECLERC, ST LEU LA FORET, 95320, france",ST LEU LA FORET,95320,"Rue du Général Leclerc, Les Chardonnais, Saint-Leu-la-Forêt, Argenteuil, Val-d'Oise, Île-de-France, France métropolitaine, 95320, France",49.018465,2.2443044
+479,516,"180 RUE SADI CARNOT, SAINT-ANDRE, 59350, france",SAINT-ANDRE,59350,"Rue Sadi Carnot, Saint-André-lez-Lille, Lille, Nord, Hauts-de-France, France métropolitaine, 59350, France",50.6615863,3.0558287
+480,517,"41 CHE DES FEUTRES DU TOULON, PERIGUEUX, 24000, france",PERIGUEUX,24000,"Chemin des Feutres du Toulon, Le Privilège, Périgueux, Dordogne, Nouvelle-Aquitaine, France métropolitaine, 24000, France",45.1996626,0.6973218
+481,518,"62 BD PAUL MONTEL, NICE, 6200, france",NICE,6200,"L'Agapante, 62, Boulevard Paul Montel, Caucade, Nice, Alpes-Maritimes, Provence-Alpes-Côte d'Azur, France métropolitaine, 06200, France",43.6757145,7.207445729949423
+482,519,"57 CHE COMMINS, SAINT DENIS, 97417, france",SAINT DENIS,97417,"Chemin commins, La Montagne, Ruisseau Blanc, Saint-Denis, La Réunion, 97417, France",-20.8918762,55.4095812
+483,520,"1 AV DARBLAY, MENNECY, 91540, france",MENNECY,91540,"1, Avenue Darblay, Résidence du Petit Parc, Mennecy, Arrondissement d'Évry, Essonne, Île-de-France, France métropolitaine, 91540, France",48.570238599999996,2.433651179025542
+484,521,"1 RUE D ATHENES, BELFORT, 90000, france",BELFORT,90000,,,
+485,522,"23 RUE DE NOAILLES, VERSAILLES, 78000, france",VERSAILLES,78000,"23, Rue de Noailles, Chantiers, Versailles, Yvelines, Île-de-France, France métropolitaine, 78000, France",48.79837445,2.1352715271200067
+486,523,"15 RUE CECILE DUPARC, BEZONS, 95870, france",BEZONS,95870,"Rue Cécile Duparc, Bezons, Argenteuil, Val-d'Oise, Île-de-France, France métropolitaine, 95870, France",48.9334108,2.210564
+487,525,"7 RUE MADAME DE SEGUR, VANNES, 56000, france",VANNES,56000,"7, Rue Madame de Ségur, Le Bondon, Ouest, Tréhuinec, Vannes, Morbihan, Bretagne, France métropolitaine, 56000, France",47.665483,-2.774555
+488,526,"9 ALL DES ROSSIGNOLS, PORT DE BOUC, 13110, france",PORT DE BOUC,13110,,,
+489,527,"62 CHE DES AMOUREUX, LUNEL, 34400, france",LUNEL,34400,"Chemin des Amoureux, Lunel, Montpellier, Hérault, Occitanie, France métropolitaine, 34400, France",43.6738422,4.1284333
+490,528,"526 IMP DE LA COMBE, VEYRAS, 7000, france",VEYRAS,7000,"Impasse de la Combe, La Croix Blanche, Veyras Ouest, Veyras, Privas, Ardèche, Auvergne-Rhône-Alpes, France métropolitaine, 07000, France",44.7323316,4.5636088
+491,529,"115 RTE DE L ANC. LAITERIE RUFFIGN, LA CRECHE, 79260, france",LA CRECHE,79260,,,
+492,530,"1 RUE DE LA MALMAISON, GONESSE, 95500, france",GONESSE,95500,"Rue de la Malmaison, Zone industrielle de la Grande Couture, Gonesse, Sarcelles, Val-d'Oise, Île-de-France, France métropolitaine, 95500, France",48.9822106,2.4549004
+493,531,"4 ALL DES MIMOSAS, CLAPIERS, 34830, france",CLAPIERS,34830,"4, Allée des Mimosas, Le Vert Pré, Clapiers, Montpellier, Hérault, Occitanie, France métropolitaine, 34830, France",43.6493227,3.8860182
+494,533,"206 RTE DU HAUT DE GRANNOD, SORNAY, 71500, france",SORNAY,71500,"206, Route du Haut de Grannod, Grannod, Sornay, Louhans, Saône-et-Loire, Bourgogne-Franche-Comté, France métropolitaine, 71500, France",46.620092,5.142962
+495,535,"20 CHE DE LA CREMADE, LA FARE LES OLIVIERS, 13580, france",LA FARE LES OLIVIERS,13580,,,
+496,536,"6 IMP DE LA GRIVE, DOMERAT, 3410, france",DOMERAT,3410,"Impasse de la Grive, Domérat, Montluçon, Allier, Auvergne-Rhône-Alpes, France métropolitaine, 03410, France",46.3610521,2.5729163
+497,537,"7 RUE CHARLES-LAURENT, RENNES, 35000, france",RENNES,35000,"7, Rue Charles Laurent, Nord - Saint-Martin, Quartiers Nord-Ouest, Rennes, Ille-et-Vilaine, Bretagne, France métropolitaine, 35064, France",48.1236077,-1.6827904
+498,538,"12 RUE DES BERCEAUX, COURLON SUR YONNE, 89140, france",COURLON SUR YONNE,89140,"Rue des Berceaux, Courlon-sur-Yonne, Sens, Yonne, Bourgogne-Franche-Comté, France métropolitaine, 89140, France",48.3408262,3.1691908
+499,539,"29 RUE NATIONALE, ROYAT, 63130, france",ROYAT,63130,"Rue Nationale, Royat, Clermont-Ferrand, Puy-de-Dôme, Auvergne-Rhône-Alpes, France métropolitaine, 63130, France",45.7641214,3.0502722
+500,540,"9 ALL SULLY, ECHIROLLES, 38130, france",ECHIROLLES,38130,"Allée Sully, Échirolles, Grenoble, Isère, Auvergne-Rhône-Alpes, France métropolitaine, 38130, France",45.1546153,5.7044465
+501,541,"13 RUE DAVOT, AUXONNE, 21130, france",AUXONNE,21130,"Rue Davot, Auxonne, Dijon, Côte-d'Or, Bourgogne-Franche-Comté, France métropolitaine, 21130, France",47.1920058,5.3873677
+502,542,"7 RUE ANDRE THEURIET, MARLY-LE-ROI, 78160, france",MARLY-LE-ROI,78160,"Rue André Theuriet, Marly-le-Roi, Saint-Germain-en-Laye, Yvelines, Île-de-France, France métropolitaine, 78160, France",48.8721431,2.0920198
+503,543,"11 RUE GRUA ROUCHOUSE, SAINT-ETIENNE, 42100, france",SAINT-ETIENNE,42100,"Rue Grua Rouchouse, Patroa, Terrenoire, Saint-Étienne, Loire, Auvergne-Rhône-Alpes, France métropolitaine, 42100, France",45.436014,4.4197961
+504,544,"4 RUE DE L ILE, LOUVIERS, 27400, france",LOUVIERS,27400,,,
+505,545,"280 CHE DE LA RATERIE, MOYAUX, 14590, france",MOYAUX,14590,,,
+506,546,"4 RUE PHILIPPE LEBON, CLERMONT FERRAND, 63000, france",CLERMONT FERRAND,63000,"4, Rue Philippe Lebon, Ballainvilliers, Neuf Soleils, Clermont-Ferrand, Puy-de-Dôme, Auvergne-Rhône-Alpes, France métropolitaine, 63000, France",45.7722735,3.0930004
+507,548,"5027 RTE DEPARTEMENTALE 918, ASCAIN, 64310, france",ASCAIN,64310,,,
+508,549,"10 RUE COLETTE, LAMBALLE-ARMOR, 22400, france",LAMBALLE-ARMOR,22400,"Rue Colette, Belle Issue, Lamballe, Lamballe-Armor, Saint-Brieuc, Côtes-d'Armor, Bretagne, France métropolitaine, 22400, France",48.4630481,-2.5001145
+509,550,"760 RTE DU CHEF LIEU, ALLONZIER-LA-CAILLE, 74350, france",ALLONZIER-LA-CAILLE,74350,"760, Route du Chef Lieu, Allonzier-la-Caille, Saint-Julien-en-Genevois, Haute-Savoie, Auvergne-Rhône-Alpes, France métropolitaine, 74350, France",46.0027075,6.116963154009378
+510,551,"455 PROM DES ANGLAIS, NICE, 6200, france",NICE,6200,"Ibis budget Nice Aeroport, 455, Promenade des Anglais, Carras, Nice, Alpes-Maritimes, Provence-Alpes-Côte d'Azur, France métropolitaine, 06200, France",43.66730725,7.213954957645832
+511,552,"52 RUE AUGUSTIN MONDON, SAINT-JOSEPH, 97480, france",SAINT-JOSEPH,97480,"Rue Augustin Mondon, Saint-Joseph, Saint-Pierre, La Réunion, 97480, France",-21.3721432,55.6094386
+512,553,"3 RUE EMILE KAHN, LE BLANC-MESNIL, 93150, france",LE BLANC-MESNIL,93150,"Rue Émile Kahn, Cité Gabriel Péri, Le Blanc-Mesnil, Le Raincy, Seine-Saint-Denis, Île-de-France, France métropolitaine, 93150, France",48.9436639,2.459145
+513,554,"450 CHE DES COMBES, ANTIBES, 6600, france",ANTIBES,6600,"Chemin des Combes, Antibes, Grasse, Alpes-Maritimes, Provence-Alpes-Côte d'Azur, France métropolitaine, 06600, France",43.592988,7.101486
+514,555,"7 RUE AU MAIRE, PARIS 03, 75003, france",PARIS 03,75003,,,
+515,556,"620 CHE DU PEYRUGAL, SAINTE-GEMME, 81190, france",SAINTE-GEMME,81190,,,
+516,557,"34 RUE DE LA VOLONTE, CLERMONT FERRAND, 63100, france",CLERMONT FERRAND,63100,"34, Rue de la Volonté, La Plaine, Clermont-Ferrand, Puy-de-Dôme, Auvergne-Rhône-Alpes, France métropolitaine, 63100, France",45.8055477,3.1230315
+517,558,"12 BD BOYER, MARSEILLE 3EME, 13003, france",MARSEILLE 3EME,13003,,,
+518,559,"4 RUE ANATOLE FRANCE, AUTERIVE, 31190, france",AUTERIVE,31190,"Rue Anatole France, La Gravette, Auterive, Muret, Haute-Garonne, Occitanie, France métropolitaine, 31190, France",43.3516955,1.4795602
+519,560,"24 RTE DE PENHOET, TRIGNAC, 44570, france",TRIGNAC,44570,"Route de Penhoët, Herbins, Grand Savine, Trignac, Saint-Nazaire, Loire-Atlantique, Pays de la Loire, France métropolitaine, 44570, France",47.2985196,-2.2032373
+520,561,"87 BD JEAN BRUNHES, TOULOUSE, 31300, france",TOULOUSE,31300,"87, Boulevard Jean Brunhes, Saint-Cyprien, Toulouse Rive Gauche, Toulouse, Haute-Garonne, Occitanie, France métropolitaine, 31300, France",43.598763,1.4202092
+521,562,"2 ALL DE BERNE, RENNES, 35200, france",RENNES,35200,"2, Allée de Berne, Italie, Le Blosne, Quartiers Sud-Est, Rennes, Ille-et-Vilaine, Bretagne, France métropolitaine, 35200, France",48.0859702,-1.6662653
+522,563,"79 RUE DE LA NORMANDELIERE, BRETIGNOLLES-SUR-MER, 85470, france",BRETIGNOLLES-SUR-MER,85470,"Rue de la Normandelière, La Normandelière, Bretignolles-sur-Mer, Les Sables-d'Olonne, Vendée, Pays de la Loire, France métropolitaine, 85470, France",46.6175733,-1.8529923
+523,564,"6 RUE DU ONZE NOVEMBRE, BORDEAUX, 33000, france",BORDEAUX,33000,"Rue du Onze Novembre, Terres Neuves, Bègles, Bordeaux, Gironde, Nouvelle-Aquitaine, France métropolitaine, 33130, France",44.8065779,-0.5502494
+524,565,"12 RUE JACQUARD, LE HAVRE, 76620, france",LE HAVRE,76620,"12, Rue Jacquard, Les Gobelins, Le Havre, Seine-Maritime, Normandie, France métropolitaine, 76310, France",49.5029518,0.0984888
+525,566,"38 BD DE VERDUN, BEZIERS, 34500, france",BEZIERS,34500,"Boulevard de Verdun, Béziers, Hérault, Occitanie, France métropolitaine, 34500, France",43.3363219,3.225128
+526,567,"51 RUE AMBROISE THOMAS, ARGENTEUIL, 95100, france",ARGENTEUIL,95100,"Rue Ambroise Thomas, Argenteuil, Val-d'Oise, Île-de-France, France métropolitaine, 95100, France",48.9380156,2.2361979
+527,568,"131 AV FELIX FAURE, LYON 3EME, 69003, france",LYON 3EME,69003,,,
+528,569,"53 AV PAUL VAILLANT COUTURIER, VILLEJUIF, 94800, france",VILLEJUIF,94800,"53, Avenue Paul Vaillant-Couturier, Villejuif, Arrondissement de L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94800, France",48.794553,2.360714
+529,570,"55 BD DE MASSANE, BAILLARGUES, 34670, france",BAILLARGUES,34670,"Boulevard de Massane, Domaine du Golf, Mas Rouge, Baillargues, Montpellier, Hérault, Occitanie, France métropolitaine, 34670, France",43.650211,4.0090373
+530,571,"12 PL LOUIS COULANGE, LAVAL, 53000, france",LAVAL,53000,"Place Louis Coulange, Grenoux-Ribaudières, Laval, Mayenne, Pays de la Loire, France métropolitaine, 53000, France",48.0782534,-0.8054418
+531,573,"116 AV KUHLMANN, LOOS, 59120, france",LOOS,59120,"Avenue Kuhlmann, Loos, Lille, Nord, Hauts-de-France, France métropolitaine, 59120, France",50.6193282,3.0170691
+532,574,"18 RUE DE COULON, SAINT-REMY, 79410, france",SAINT-REMY,79410,,,
+533,575,"2 IMP DE LA BREDE, SAINT-NAZAIRE, 44600, france",SAINT-NAZAIRE,44600,"Impasse de la Brède, Plaisance, Sautron, Saint-Nazaire, Loire-Atlantique, Pays de la Loire, France métropolitaine, 44600, France",47.2676455,-2.2263998
+534,576,"71 RUE CLOVIS, REIMS, 51100, france",REIMS,51100,"71, Rue Clovis, Quartier Centre Ville, Reims, Marne, Grand Est, France métropolitaine, 51100, France",49.2485455,4.0302675
+535,578,"703 RUE JEAN JAURES, MEUSNES, 41130, france",MEUSNES,41130,"Rue Jean Jaurès, Meusnes, Romorantin-Lanthenay, Loir-et-Cher, Centre-Val de Loire, France métropolitaine, 41130, France",47.2511315,1.5090998
+536,579,"36 RUE ROGER SALENGRO, LE BOUSCAT, 33110, france",LE BOUSCAT,33110,"36, Rue Roger Salengro, Lafon Féline, Le Bouscat, Bordeaux, Gironde, Nouvelle-Aquitaine, France métropolitaine, 33110, France",44.8622853,-0.6079898
+537,580,"163 AV ROGER SALENGRO, VILLEURBANNE, 69100, france",VILLEURBANNE,69100,"Avenue Roger Salengro, Croix-Luizet, Villeurbanne, Lyon, Métropole de Lyon, Circonscription départementale du Rhône, Auvergne-Rhône-Alpes, France métropolitaine, 69100, France",45.7815595,4.886473
+538,581,"12 AV DANIELLE MITTERRAND, BEGLES, 33130, france",BEGLES,33130,"Avenue Danielle Mitterrand, Hourcade, Bègles, Bordeaux, Gironde, Nouvelle-Aquitaine, France métropolitaine, 33130, France",44.78641405,-0.5624010540934369
+539,582,"20 RUE DE METZ, LANTEFONTAINE, 54150, france",LANTEFONTAINE,54150,"Rue de Metz, Lantéfontaine, Briey, Meurthe-et-Moselle, Grand Est, France métropolitaine, 54150, France",49.2497328,5.9114256
+540,583,"24 BD DU FIER, ANNECY, 74000, france",ANNECY,74000,"Boulevard du Fier, Annecy, Haute-Savoie, Auvergne-Rhône-Alpes, France métropolitaine, 74000, France",45.9161667,6.1160288
+541,584,"80 ALL MARIE SAGNIER, MONTPELLIER, 34000, france",MONTPELLIER,34000,"80, Allée Marie Sagnier, Gambetta, Centre, Montpellier, Hérault, Occitanie, France métropolitaine, 34060, France",43.6018749,3.8710829
+542,585,"3 ALL DE LA SIXIEME HEURE, AMIENS, 80000, france",AMIENS,80000,"3, Allée de la Sixième Heure, Amiens, Somme, Hauts-de-France, France métropolitaine, 80000, France",49.9066312,2.2676942
+543,586,"9001 RES VILLAGE DU SOLEIL, AIX EN PROVENCE, 13540, france",AIX EN PROVENCE,13540,,,
+544,587,"39 RUE ALEXANDRE FOURNY, CHAMPIGNY-SUR-MARNE, 94500, france",CHAMPIGNY-SUR-MARNE,94500,"39, Rue Alexandre Fourny, Champigny-sur-Marne, Nogent-sur-Marne, Val-de-Marne, Île-de-France, France métropolitaine, 94500, France",48.8189922,2.5177112
+545,588,"46 RUE PRINCIPALE, VEIGNE, 37250, france",VEIGNE,37250,"Rue Principale, Beauregard, Côte de Crochu, Veigné, Arrondissement de Tours, Indre-et-Loire, Centre-Val de Loire, France métropolitaine, 37250, France",47.2903784,0.7346434
+546,589,"16 RUE HAUTE, RUEIL-MALMAISON, 92500, france",RUEIL-MALMAISON,92500,"16, Rue Haute, Village Centre-ville, Rueil-Malmaison, Arrondissement de Nanterre, Hauts-de-Seine, Île-de-France, France métropolitaine, 92500, France",48.8753126,2.1835603
+547,590,"1 RUE DES FUSILLES, ARMENTIERES, 59280, france",ARMENTIERES,59280,"1, Rue des Fusillés, Armentières, Lille, Nord, Hauts-de-France, France métropolitaine, 59280, France",50.6891637,2.8815007
+548,591,"4 AV DU PORT, GRAY, 70100, france",GRAY,70100,"4, Avenue du Port, Gray, Vesoul, Haute-Saône, Bourgogne-Franche-Comté, France métropolitaine, 70100, France",47.450451,5.589989
+549,592,"74 PL DE LA BONANCE, GRUISSAN, 11430, france",GRUISSAN,11430,"Place de la Bonance, Discothèques, Gruissan, Narbonne, Aude, Occitanie, France métropolitaine, 11430, France",43.1099149,3.1018616
+550,593,"8 CHE DES CAILLEROTTES, VERINES, 17540, france",VERINES,17540,"Chemin des Caillerottes, Vérines, La Rochelle, Charente-Maritime, Nouvelle-Aquitaine, France métropolitaine, 17540, France",46.1949743,-0.9636568
+551,594,"34 BD PIERRE SOLA, NICE, 6300, france",NICE,6300,"Boulevard Pierre Sola, Riquier, Victoria Park, Nice, Alpes-Maritimes, Provence-Alpes-Côte d'Azur, France métropolitaine, 06300, France",43.7070511,7.2868431
+552,596,"124 BD LOBAU, NANCY, 54000, france",NANCY,54000,"124, Boulevard Lobau, Saint-Pierre - René II - Bonsecours, Nancy, Meurthe-et-Moselle, Grand Est, France métropolitaine, 54100, France",48.6819702,6.1974277
+553,597,"3 IMP EUGENE LEJANNE, ROCHE SUR YON (LA), 85000, france",ROCHE SUR YON (LA),85000,"3, Impasse Eugène Lejanne, La Maison Neuve des Landes, La Roche-sur-Yon, Vendée, Pays de la Loire, France métropolitaine, 85000, France",46.686809,-1.453672
+554,598,"10 RUE DES JARDINS, GOUVIX, 14680, france",GOUVIX,14680,"Rue des Jardins, Gouvix, Caen, Calvados, Normandie, France métropolitaine, 14680, France",49.0363701,-0.3049697
+555,599,"23 RUE DE SEDAN, DOUAI, 59500, france",DOUAI,59500,"Rue de Sedan, Douai, Nord, Hauts-de-France, France métropolitaine, 59500, France",50.3807865,3.0714455
+556,600,"6 RUE MARC SANGNIER, ARPAJON, 91290, france",ARPAJON,91290,"6, Rue Marc Sangnier, Cité des Grouaisons, Arpajon, Palaiseau, Essonne, Île-de-France, France métropolitaine, 91290, France",48.587718,2.239569
+557,601,"20 RUE COLI, MONTREUIL, 93100, france",MONTREUIL,93100,"20, Rue Coli, Ruffins - Théophile-Sueur, Montreuil, Bobigny, Seine-Saint-Denis, Île-de-France, France métropolitaine, 93100, France",48.868459,2.468415
+558,602,"6 AV JEAN JAURES, FEURS, 42110, france",FEURS,42110,,,
+559,603,"1 RUE HENRI RENAUDIN, CHARLEVILLE-MEZIERES, 8000, france",CHARLEVILLE-MEZIERES,8000,"1, Rue Henri Renaudin, La Bosse d'Etion, Charleville-Mézières, Ardennes, Grand Est, France métropolitaine, 08000, France",49.7735463,4.7088294
+560,604,"2 RUE DE LYON, EPINAY SUR SEINE, 93800, france",EPINAY SUR SEINE,93800,,,
+561,605,"4 RUE DENIS PAPIN, BLAIN, 44130, france",BLAIN,44130,"Rue Denis Papin, Zi des Blûchets, La Militais, Blain, Châteaubriant-Ancenis, Loire-Atlantique, Pays de la Loire, France métropolitaine, 44130, France",47.4827659,-1.7472354
